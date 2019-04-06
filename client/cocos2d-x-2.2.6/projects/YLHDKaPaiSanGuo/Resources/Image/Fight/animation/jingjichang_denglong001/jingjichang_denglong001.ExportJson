@@ -1,0 +1,342 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "jingjichang_denglong001",
+"bone_data": [
+{
+"name": "jingjichang_middle_denglong001_01",
+"parent": "",
+"dI": 0,
+"x": -0.065217375755310059,
+"y": -46.380039215087891,
+"z": 3,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "jingjichang_middle_denglong001_01.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "jingjichang_middle_denglong001_02",
+"parent": "",
+"dI": 0,
+"x": -2.0,
+"y": -89.465179443359375,
+"z": 2,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.17453292,
+"kY": -0.17453292,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "jingjichang_middle_denglong001_02.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "jingjichang_middle_denglong001_03",
+"parent": "",
+"dI": 0,
+"x": 1.0073308944702148,
+"y": -12.130435943603516,
+"z": 1,
+"cX": 1.0,
+"cY": 2.10000014,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "jingjichang_middle_denglong001_03.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "jingjichang_denglong001",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 41,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "jingjichang_middle_denglong001_01",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -2.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 2.5,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.02617994,
+"kY": 0.02617994,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 4.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.05235988,
+"kY": 0.05235988,
+"fi": 20,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -2.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 40,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "jingjichang_middle_denglong001_02",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -3.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.08726646,
+"kY": 0.08726646,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.25,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.109083086,
+"kY": -0.0436332375,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 5.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.0239982754,
+"kY": 0.10035643,
+"fi": 22,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 6.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.157079637,
+"kY": 0.2443461,
+"fi": 29,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -3.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.08726646,
+"kY": 0.08726646,
+"fi": 40,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "jingjichang_middle_denglong001_03",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -1.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.08726646,
+"kY": -0.08726646,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.5,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.0436332375,
+"kY": 0.0436332375,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 1.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.08726646,
+"kY": 0.08726646,
+"fi": 20,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -1.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.08726646,
+"kY": -0.08726646,
+"fi": 40,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "jingjichang_middle_denglong001_01",
+"width": 51.0,
+"height": 47.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "jingjichang_middle_denglong001_02",
+"width": 12.0,
+"height": 44.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "jingjichang_middle_denglong001_03",
+"width": 4.0,
+"height": 12.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"jingjichang_denglong0010.plist"
+],
+"config_png_path": [
+"jingjichang_denglong0010.png"
+]
+}

@@ -1,0 +1,148 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "anyi_middle_ground06",
+"bone_data": [
+{
+"name": "Layer7",
+"parent": "",
+"dI": 0,
+"x": 0.99997043609619141,
+"y": 10.67333984375,
+"z": 1,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "anyi_middle_ground06.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "anyi_middle_ground06",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 51,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer7",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -2.6399998664855957,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.0921533853,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -3.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.104719758,
+"kY": 0.0,
+"fi": 25,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -0.3600001335144043,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.0125663728,
+"kY": 0.0,
+"fi": 44,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 50,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "anyi_middle_ground06",
+"width": 82.0,
+"height": 70.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"anyi_middle_ground060.plist"
+],
+"config_png_path": [
+"anyi_middle_ground060.png"
+]
+}

@@ -1,0 +1,281 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "simayi_attack_hitted",
+"bone_data": [
+{
+"name": "Layer1",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 3,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "simayi_attack_hitted_1.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer2",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 2,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "simayi_attack_hitted_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "simayi_attack_hitted",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 11,
+"lp": false,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.47619056701660156,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.47619056701660156,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 1,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.47619056701660156,
+"z": 0,
+"cX": 0.09999993,
+"cY": 0.1,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.47619056701660156,
+"z": 0,
+"cX": 0.09999993,
+"cY": 0.1,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.47619056701660156,
+"z": 0,
+"cX": 0.09999993,
+"cY": 0.1,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 9.5238094329833984,
+"y": 0.95237827301025391,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 9.5238094329833984,
+"y": 0.95237827301025391,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 9.5238094329833984,
+"y": 0.95237827301025391,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 3,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 9.5238094329833984,
+"y": 0.95237827301025391,
+"z": 0,
+"cX": 1.30000007,
+"cY": 1.30000007,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "simayi_attack_hitted_1",
+"width": 80.0,
+"height": 66.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "simayi_attack_hitted_2",
+"width": 70.0,
+"height": 77.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"simayi_attack_hitted0.plist"
+],
+"config_png_path": [
+"simayi_attack_hitted0.png"
+]
+}

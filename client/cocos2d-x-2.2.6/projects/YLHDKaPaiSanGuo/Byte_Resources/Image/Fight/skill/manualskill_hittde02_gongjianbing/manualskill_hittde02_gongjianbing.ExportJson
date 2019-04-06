@@ -1,0 +1,631 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "manualskill_hittde02_gongjianbing",
+"bone_data": [
+{
+"name": "Layer7",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 15.0,
+"z": 5,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "manualskill_diguang03_taishici.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer6",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 7.0,
+"z": 4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "manualskill_diguang02_taishici.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer5",
+"parent": "",
+"dI": 0,
+"x": -0.4545513391494751,
+"y": 10.0,
+"z": 3,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "manualskill_diguang01_taishici.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer2",
+"parent": "",
+"dI": 0,
+"x": 245.00001525878906,
+"y": 390.7481689453125,
+"z": 2,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 1.30899692,
+"kY": -1.30899692,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "arrow01_gongjianbing.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer1",
+"parent": "",
+"dI": 0,
+"x": -128.33334350585938,
+"y": 457.41488647460938,
+"z": 1,
+"cX": 1.30000007,
+"cY": 1.0,
+"kX": 1.30899692,
+"kY": -1.30899692,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "arrow_gongjianbing.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "manualskill_hittde02_gongjianbing",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 17,
+"lp": false,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer7",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.50000012,
+"cY": 1.30000007,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.70000017,
+"cY": 1.50000012,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 189,
+"g": 101,
+"b": 33
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 2.00000024,
+"cY": 1.70000017,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 189,
+"g": 101,
+"b": 33
+}
+}
+]
+},
+{
+"name": "Layer6",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.9,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 7,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.30000007,
+"cY": 1.1,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 11,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.50000012,
+"cY": 1.30000007,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer5",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.299999923,
+"cY": 0.299999923,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.4999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 7,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 11,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -256.0780029296875,
+"y": -345.89752197265625,
+"z": 0,
+"cX": 1.30000007,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -256.0780029296875,
+"y": -345.89752197265625,
+"z": 0,
+"cX": 1.30000007,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -256.0780029296875,
+"y": -345.89752197265625,
+"z": 0,
+"cX": 1.30000007,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -256.0780029296875,
+"y": -345.89752197265625,
+"z": 0,
+"cX": 1.30000007,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 10.0,
+"y": -18.4615478515625,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 1,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 91.766021728515625,
+"y": -320.19332885742188,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 112.20752716064453,
+"y": -395.62628173828125,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "manualskill_diguang01_taishici",
+"width": 64.0,
+"height": 47.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "manualskill_diguang02_taishici",
+"width": 111.0,
+"height": 42.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "manualskill_diguang03_taishici",
+"width": 136.0,
+"height": 59.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "arrow_gongjianbing",
+"width": 92.0,
+"height": 17.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "arrow01_gongjianbing",
+"width": 67.0,
+"height": 17.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"manualskill_hittde02_gongjianbing0.plist"
+],
+"config_png_path": [
+"manualskill_hittde02_gongjianbing0.png"
+]
+}

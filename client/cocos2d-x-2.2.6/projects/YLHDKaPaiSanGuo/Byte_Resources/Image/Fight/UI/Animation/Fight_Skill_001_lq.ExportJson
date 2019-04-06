@@ -1,0 +1,1369 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "Fight_Skill_001_lq",
+"bone_data": [
+{
+"name": "Fight_Skill_001_lq_9",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 9,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Fight_Skill_001_lq_9.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_8",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 8,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Fight_Skill_001_lq_8.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_7",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 7,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Fight_Skill_001_lq_7.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_6",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 6,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Fight_Skill_001_lq_6.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_5",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 5,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Fight_Skill_001_lq_5.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_4",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Fight_Skill_001_lq_4.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_3",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 3,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Fight_Skill_001_lq_3.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_2",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 2,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Fight_Skill_001_lq_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_1",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 1,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Fight_Skill_001_lq_1.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "Fight_Skill_001_lq",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 25,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Fight_Skill_001_lq_2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.4000001,
+"cY": 1.4000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.4000001,
+"cY": 1.4000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.4000001,
+"cY": 1.4000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 24,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 24,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+}
+]
+},
+{
+"name": "Animation2",
+"dr": 13,
+"lp": false,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Fight_Skill_001_lq_9",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 7,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_8",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 7,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_7",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 7,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_6",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_5",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 3,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_4",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 1,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 3,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_3",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 1,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.60000014,
+"cY": 1.60000014,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.60000014,
+"cY": 1.60000014,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 1,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.60000014,
+"cY": 1.60000014,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Fight_Skill_001_lq_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "Fight_Skill_001_lq_1",
+"width": 83.0,
+"height": 83.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Fight_Skill_001_lq_2",
+"width": 101.0,
+"height": 101.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Fight_Skill_001_lq_3",
+"width": 145.0,
+"height": 196.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Fight_Skill_001_lq_4",
+"width": 135.0,
+"height": 127.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Fight_Skill_001_lq_5",
+"width": 123.0,
+"height": 130.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Fight_Skill_001_lq_6",
+"width": 129.0,
+"height": 122.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Fight_Skill_001_lq_7",
+"width": 127.0,
+"height": 127.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Fight_Skill_001_lq_8",
+"width": 53.0,
+"height": 58.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Fight_Skill_001_lq_9",
+"width": 26.0,
+"height": 40.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"Fight_Skill_001_lq0.plist"
+],
+"config_png_path": [
+"Fight_Skill_001_lq0.png"
+]
+}

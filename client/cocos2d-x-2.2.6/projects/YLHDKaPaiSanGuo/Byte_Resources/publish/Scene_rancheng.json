@@ -1,0 +1,990 @@
+{
+"classname": "CCNode",
+"name": "Root",
+"canedit": true,
+"objecttag": 10000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_Layer_Sky",
+"canedit": true,
+"objecttag": 14000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 90,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_sky01",
+"canedit": true,
+"objecttag": 14005,
+"rotation": 0,
+"scalex": 2,
+"scaley": 2,
+"visible": 1,
+"x": 480,
+"y": 537,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_rancheng/rancheng_sky01.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+}
+],
+"components": []
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_Layer_Back",
+"canedit": true,
+"objecttag": 13000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 90,
+"y": 0,
+"zorder": 10,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_back_cheng01",
+"canedit": true,
+"objecttag": 10013,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 560,
+"y": 583,
+"zorder": 10,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_rancheng/rancheng_back_cheng01.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_yan01",
+"canedit": true,
+"objecttag": 14491,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 686,
+"y": 508,
+"zorder": 20,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComParticleSystemSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCParticleSystemQuad",
+"name": "CCParticleSystemQuad",
+"file": null,
+"fileData": {
+"path": "Image/Fight/particl/rancheng_yan01/rancheng_yan01.plist",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_back_huoguang02",
+"canedit": true,
+"objecttag": 14462,
+"rotation": 16,
+"scalex": 0.799999952,
+"scaley": 1.1,
+"visible": 1,
+"x": 760.33392333984375,
+"y": 537.0003662109375,
+"zorder": 30,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComParticleSystemSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCParticleSystemQuad",
+"name": "CCParticleSystemQuad",
+"file": null,
+"fileData": {
+"path": "Image/Fight/particl/fire/chibi_fire01.plist",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_background01",
+"canedit": true,
+"objecttag": 10007,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 435,
+"y": 497,
+"zorder": 40,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_rancheng/rancheng_background01.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_background02",
+"canedit": true,
+"objecttag": 10011,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 1440,
+"y": 497,
+"zorder": 50,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_rancheng/rancheng_background02.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_back_huoguang02",
+"canedit": true,
+"objecttag": 14461,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 1246,
+"y": 569,
+"zorder": 60,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/rancheng/rancheng_back_huoguang02/rancheng_back_huoguang02.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "zhucheng_light001",
+"canedit": true,
+"objecttag": 14463,
+"rotation": -61,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 1290,
+"y": 478,
+"zorder": 70,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/zhucheng_light001/zhucheng_light001.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_back_shizi01",
+"canedit": true,
+"objecttag": 10012,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 1160.9998779296875,
+"y": 503.49993896484375,
+"zorder": 80,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_rancheng/rancheng_back_shizi01.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_back_suolian01",
+"canedit": true,
+"objecttag": 14467,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 1371.7724609375,
+"y": 515.90911865234375,
+"zorder": 90,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/rancheng/rancheng_back_suolian01/rancheng_back_suolian01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+}
+],
+"components": []
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_Layer_Middle",
+"canedit": true,
+"objecttag": 12000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 20,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_Layer_Middle01",
+"canedit": true,
+"objecttag": 12000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 90,
+"y": 0,
+"zorder": 20,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_back_huoguang02_Copy",
+"canedit": true,
+"objecttag": 14465,
+"rotation": 13,
+"scalex": 1,
+"scaley": 1.50000012,
+"visible": 1,
+"x": 2773,
+"y": 461,
+"zorder": 10,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComParticleSystemSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCParticleSystemQuad",
+"name": "CCParticleSystemQuad",
+"file": null,
+"fileData": {
+"path": "Image/Fight/particl/fire/chibi_fire01.plist",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_middle_ground01",
+"canedit": true,
+"objecttag": 10008,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 435,
+"y": 279,
+"zorder": 20,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_rancheng/rancheng_middle_ground01.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_middle_ground02",
+"canedit": true,
+"objecttag": 10015,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 1440,
+"y": 263,
+"zorder": 30,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_rancheng/rancheng_middle_ground02.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_middle_ground03",
+"canedit": true,
+"objecttag": 10016,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 2445,
+"y": 320,
+"zorder": 40,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_rancheng/rancheng_middle_ground03.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rancheng_wuya01",
+"canedit": true,
+"objecttag": 10017,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 51,
+"y": 434,
+"zorder": 50,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/rancheng/rancheng_wuya01/rancheng_wuya01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+}
+],
+"components": []
+}
+],
+"components": []
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_Layer_Front",
+"canedit": true,
+"objecttag": 11000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 30,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_front_shidun",
+"canedit": true,
+"objecttag": 10010,
+"rotation": 0,
+"scalex": 2,
+"scaley": 2,
+"visible": 1,
+"x": 3529.294677734375,
+"y": 106.5089111328125,
+"zorder": 10,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_duoyi/duoyi_front_shidun.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_front_chelun",
+"canedit": true,
+"objecttag": 10019,
+"rotation": 0,
+"scalex": 2.29999971,
+"scaley": 2.49999952,
+"visible": 1,
+"x": 3725.318115234375,
+"y": 60.746433258056641,
+"zorder": 20,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_duoyi/duoyi_front_chelun.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_front_wood001",
+"canedit": true,
+"objecttag": 10020,
+"rotation": 0,
+"scalex": 2,
+"scaley": 2,
+"visible": 1,
+"x": 1869,
+"y": 113.32350921630859,
+"zorder": 30,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_duoyi/duoyi_front_wood001.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_grass003_01_Copy",
+"canedit": true,
+"objecttag": 10033,
+"rotation": -4,
+"scalex": -1.2,
+"scaley": 1.4000001,
+"visible": 1,
+"x": 909.75,
+"y": 41.666667938232422,
+"zorder": 40,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/duoyi_grass003_01/duoyi_grass003_01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_front_zhalan001",
+"canedit": true,
+"objecttag": 10021,
+"rotation": -5,
+"scalex": -2,
+"scaley": 2.4,
+"visible": 1,
+"x": 1074,
+"y": 137,
+"zorder": 50,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_duoyi/duoyi_front_zhalan001.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_front_zhalan002",
+"canedit": true,
+"objecttag": 10022,
+"rotation": 0,
+"scalex": 2,
+"scaley": 2,
+"visible": 1,
+"x": 3146.011474609375,
+"y": 87.083305358886719,
+"zorder": 60,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_duoyi/duoyi_front_zhalan002.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_front_zhalan003",
+"canedit": true,
+"objecttag": 10023,
+"rotation": 0,
+"scalex": -2,
+"scaley": 2,
+"visible": 1,
+"x": 197,
+"y": 103,
+"zorder": 70,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_duoyi/duoyi_front_zhalan003.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_grass001_01",
+"canedit": true,
+"objecttag": 10025,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 2382.00048828125,
+"y": -14.285720825195313,
+"zorder": 80,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/duoyi_grass001_01/duoyi_grass001_01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_grass003_01",
+"canedit": true,
+"objecttag": 10026,
+"rotation": 0,
+"scalex": 1.70000017,
+"scaley": 1.70000017,
+"visible": 1,
+"x": 1187.5823974609375,
+"y": 1.3644394874572754,
+"zorder": 90,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/duoyi_grass003_01/duoyi_grass003_01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_grass004_01",
+"canedit": true,
+"objecttag": 10027,
+"rotation": 0,
+"scalex": -1.3,
+"scaley": 1.30000007,
+"visible": 1,
+"x": 301,
+"y": 3,
+"zorder": 100,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/duoyi_grass004_01/duoyi_grass004_01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_grass001_01_Copy",
+"canedit": true,
+"objecttag": 10030,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 725.99993896484375,
+"y": -28,
+"zorder": 110,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/duoyi_grass001_01/duoyi_grass001_01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_grass003_01_Copy",
+"canedit": true,
+"objecttag": 10031,
+"rotation": 0,
+"scalex": 1.50000012,
+"scaley": 1.50000012,
+"visible": 1,
+"x": 3165.52587890625,
+"y": 3.2043581008911133,
+"zorder": 120,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/duoyi_grass003_01/duoyi_grass003_01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_grass004_01_Copy",
+"canedit": true,
+"objecttag": 10032,
+"rotation": 0,
+"scalex": -1.3,
+"scaley": 1.30000007,
+"visible": 1,
+"x": 2758.57080078125,
+"y": 3.3361222743988037,
+"zorder": 130,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/duoyi_grass004_01/duoyi_grass004_01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_front_piaodai001",
+"canedit": true,
+"objecttag": 14466,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 1884,
+"y": 173,
+"zorder": 140,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/duoyi_front_piaodai001/duoyi_front_piaodai001.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "duoyi_front_zhalan003_Copy",
+"canedit": true,
+"objecttag": 14521,
+"rotation": 0,
+"scalex": -2.2,
+"scaley": 2.79999924,
+"visible": 1,
+"x": 3909,
+"y": 142,
+"zorder": 18,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_duoyi/duoyi_front_zhalan003.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+}
+],
+"components": []
+}
+],
+"CanvasSize": {
+"_height": 640,
+"_width": 3060
+},
+"Triggers": null,
+"Version": "1.5.0.0",
+"components": [
+{
+"__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCScene",
+"name": "CCScene",
+"scenename": "Scene_rancheng"
+},
+{
+"__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCBackgroundAudio",
+"name": "CCBackgroundAudio",
+"file": null,
+"fileData": {
+"path": "audio/bgm/music_pve.mp3",
+"plistFile": "",
+"resourceType": 0
+},
+"loop": 1
+}
+]
+}

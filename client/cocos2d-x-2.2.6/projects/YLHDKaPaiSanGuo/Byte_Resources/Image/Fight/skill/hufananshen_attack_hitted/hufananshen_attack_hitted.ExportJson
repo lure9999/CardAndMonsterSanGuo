@@ -1,0 +1,756 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "hufananshen_attack_hitted",
+"bone_data": [
+{
+"name": "Layer6",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 5,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "hufananshen_attack_hitted_1_1.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "hufananshen_attack_hitted_1_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "hufananshen_attack_hitted_1_3.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "hufananshen_attack_hitted_1_4.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer7",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "hufananshen_attack_hitted_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer8",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 3,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "hufananshen_attack_hitted_3.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer9",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 2,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "hufananshen_attack_hitted_4.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer10",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 1,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "hufananshen_attack_hitted_5.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "hufananshen_attack_hitted",
+"mov_data": [
+{
+"name": "hufananshen_attack_hitted",
+"dr": 18,
+"lp": false,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer6",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 1.7647156715393066,
+"y": 52.941219329833984,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 1.7647156715393066,
+"y": 52.941219329833984,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 1.7647156715393066,
+"y": 52.941219329833984,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 1.7647156715393066,
+"y": 52.941219329833984,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 1.7647156715393066,
+"y": 52.941219329833984,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 1.7647156715393066,
+"y": 52.941219329833984,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 17,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer7",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 20.000001907348633,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 20.000001907348633,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 1,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.72916662693023682,
+"y": 31.423608779907227,
+"z": 0,
+"cX": 1.29166663,
+"cY": 1.29166663,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 1.25,
+"y": 39.583328247070312,
+"z": 0,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 1.25,
+"y": 39.583328247070312,
+"z": 0,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 17,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer8",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 24.117649078369141,
+"y": 24.117650985717773,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 24.117649078369141,
+"y": 24.117650985717773,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 24.117649078369141,
+"y": 24.117650985717773,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 3,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 25.784313201904297,
+"y": 38.839874267578125,
+"z": 0,
+"cX": 1.33333325,
+"cY": 1.33333325,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 11,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 26.617645263671875,
+"y": 46.200984954833984,
+"z": 0,
+"cX": 1.49999988,
+"cY": 1.49999988,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 26.617645263671875,
+"y": 46.200984954833984,
+"z": 0,
+"cX": 1.49999988,
+"cY": 1.49999988,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 17,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer9",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 11.764713287353516,
+"y": 42.352947235107422,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 11.764713287353516,
+"y": 42.352947235107422,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 11.764713287353516,
+"y": 42.352947235107422,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 13.986934661865234,
+"y": 61.2418212890625,
+"z": 0,
+"cX": 1.26666677,
+"cY": 1.26666677,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 15.098045349121094,
+"y": 70.6862564086914,
+"z": 0,
+"cX": 1.4000001,
+"cY": 1.4000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 17,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer10",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -1.1764769554138184,
+"y": -16.4705867767334,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -1.1764769554138184,
+"y": -16.4705867767334,
+"z": 0,
+"cX": 1.58823538,
+"cY": 1.58823538,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -1.1764769554138184,
+"y": -16.4705867767334,
+"z": 0,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 17,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "hufananshen_attack_hitted_1_1",
+"width": 138.0,
+"height": 172.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "hufananshen_attack_hitted_1_2",
+"width": 0.0,
+"height": 0.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "hufananshen_attack_hitted_1_3",
+"width": 0.0,
+"height": 0.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "hufananshen_attack_hitted_1_4",
+"width": 138.0,
+"height": 172.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "hufananshen_attack_hitted_2",
+"width": 93.0,
+"height": 97.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "hufananshen_attack_hitted_3",
+"width": 133.0,
+"height": 118.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "hufananshen_attack_hitted_4",
+"width": 151.0,
+"height": 149.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "hufananshen_attack_hitted_5",
+"width": 97.0,
+"height": 55.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"hufananshen_attack_hitted0.plist"
+],
+"config_png_path": [
+"hufananshen_attack_hitted0.png"
+]
+}

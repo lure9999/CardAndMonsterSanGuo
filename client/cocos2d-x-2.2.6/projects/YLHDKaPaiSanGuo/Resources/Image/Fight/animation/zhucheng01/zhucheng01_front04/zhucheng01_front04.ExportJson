@@ -1,0 +1,174 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "zhucheng01_front04",
+"bone_data": [
+{
+"name": "Layer3",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 31.1733341217041,
+"z": 1,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "zhucheng01_front04.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "zhucheng01_front04",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 86,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer3",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -0.17132429778575897,
+"y": -0.040794942528009415,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.004271784,
+"kY": 0.0,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -3.3408238887786865,
+"y": -0.79550135135650635,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.0832997859,
+"kY": 0.0,
+"fi": 39,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -3.499910831451416,
+"y": -0.83338236808776855,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.0872664452,
+"kY": 0.0,
+"fi": 44,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -3.3291831016540527,
+"y": -0.79272949695587158,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.08300954,
+"kY": 0.0,
+"fi": 49,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -0.18495464324951172,
+"y": -0.044040560722351074,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.004611641,
+"kY": 0.0,
+"fi": 80,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 85,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "zhucheng01_front04",
+"width": 76.0,
+"height": 34.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"zhucheng01_front040.plist"
+],
+"config_png_path": [
+"zhucheng01_front040.png"
+]
+}

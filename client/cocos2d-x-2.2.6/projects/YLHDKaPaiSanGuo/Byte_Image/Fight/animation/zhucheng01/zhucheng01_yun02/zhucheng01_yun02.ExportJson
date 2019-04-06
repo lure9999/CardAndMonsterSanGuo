@@ -1,0 +1,186 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "zhucheng01_yun02",
+"bone_data": [
+{
+"name": "Layer4",
+"parent": "",
+"dI": 0,
+"x": -211.44122314453125,
+"y": 7.9086165428161621,
+"z": 1,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": -0.0174532924,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "zhucheng01_yun02.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "zhucheng01_yun02",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 182,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.0166666675,
+"mov_bone_data": [
+{
+"name": "Layer4",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 1040.915771484375,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 1557.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 59,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 1557.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 60,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 61,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 62,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 367.38201904296875,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 104,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 1040.915771484375,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 181,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "zhucheng01_yun02",
+"width": 417.0,
+"height": 39.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"zhucheng01_yun020.plist"
+],
+"config_png_path": [
+"zhucheng01_yun020.png"
+]
+}

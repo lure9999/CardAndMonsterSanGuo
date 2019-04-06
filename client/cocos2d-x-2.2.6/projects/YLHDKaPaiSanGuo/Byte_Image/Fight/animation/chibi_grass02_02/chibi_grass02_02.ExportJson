@@ -1,0 +1,258 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "chibi_grass02_02",
+"bone_data": [
+{
+"name": "Layer8",
+"parent": "",
+"dI": 0,
+"x": -11.500038146972656,
+"y": 146.67330932617188,
+"z": 2,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "chibi_grass02_02.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer2",
+"parent": "",
+"dI": 0,
+"x": -96.547683715820312,
+"y": 248.95918273925781,
+"z": 1,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "chibi_grass02_02_01.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "chibi_grass02_02",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 49,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer8",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -11.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.06981317,
+"kY": 0.0,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 27,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -11.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.06981317,
+"kY": 0.0,
+"fi": 36,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 48,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Layer2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -38.0,
+"y": -7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.314159274,
+"kY": 0.104719758,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 2.0,
+"y": -4.4545454978942871,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.0951997861,
+"kY": 0.06663984,
+"fi": 27,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -32.0,
+"y": -9.0,
+"z": 0,
+"cX": 1.0,
+"cY": 0.95,
+"kX": -0.228932783,
+"kY": 0.107893087,
+"fi": 36,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 48,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "chibi_grass02_02",
+"width": 188.0,
+"height": 151.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "chibi_grass02_02_01",
+"width": 52.0,
+"height": 48.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"chibi_grass02_020.plist"
+],
+"config_png_path": [
+"chibi_grass02_020.png"
+]
+}

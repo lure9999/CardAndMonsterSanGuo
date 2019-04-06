@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{fc5cb953-2953-4968-83b3-39e3ff951754}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="win32">
+      <UniqueIdentifier>{037a9a02-b906-4cc5-ad98-304acd4e25ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\network">
+      <UniqueIdentifier>{e4da37cb-0c62-4b68-bd13-79b74ff84ac3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\MyAssetsManager">
+      <UniqueIdentifier>{5d553449-cbea-4178-ae42-ee2dd6cc93e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\TouchDispatcher">
+      <UniqueIdentifier>{f15af200-d390-4335-bbca-96903b0f8ab9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\BaseType.h">
+      <Filter>Classes\network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\Buffer_Net.h">
+      <Filter>Classes\network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\DataType.h">
+      <Filter>Classes\network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\NetManage.h">
+      <Filter>Classes\network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\NetSocket.h">
+      <Filter>Classes\network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\NetStream.h">
+      <Filter>Classes\network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\networkcallback.h">
+      <Filter>Classes\network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\ObjPool.h">
+      <Filter>Classes\network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MyAssetsManager\MyAssetsManager.h">
+      <Filter>Classes\MyAssetsManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MyAssetsManager\UpdateManager.h">
+      <Filter>Classes\MyAssetsManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TouchDispatcher\SingleDispatcher.h">
+      <Filter>Classes\TouchDispatcher</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\NetManage.cpp">
+      <Filter>Classes\network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\NetSocket.cpp">
+      <Filter>Classes\network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\NetStream.cpp">
+      <Filter>Classes\network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\networkcallback.cpp">
+      <Filter>Classes\network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MyAssetsManager\MyAssetsManager.cpp">
+      <Filter>Classes\MyAssetsManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MyAssetsManager\UpdateManager.cpp">
+      <Filter>Classes\MyAssetsManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TouchDispatcher\SingleDispatcher.cpp">
+      <Filter>Classes\TouchDispatcher</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

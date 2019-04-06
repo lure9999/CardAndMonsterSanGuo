@@ -1,0 +1,674 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "xuanzhong_guangquan001",
+"bone_data": [
+{
+"name": "Layer4",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 1.0,
+"z": 4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "xuanzhong_guangquan001_03.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer6",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 3,
+"cX": 1.2,
+"cY": 1.2,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "manualskill_caoren_attack_03.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "huatuoskill08",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 2,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "huatuoskill08.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "huatuoskill09",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 1,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "huatuoskill09.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "xuanzhong_guangquan001",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 31,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.3,
+"mov_bone_data": [
+{
+"name": "Layer4",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -65.0,
+"y": -4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 1.0,
+"kX": 1.78023589,
+"kY": -1.78023589,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": -65.0,
+"y": -4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 1.0,
+"kX": 1.78023589,
+"kY": -1.78023589,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": -65.0,
+"y": -4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 1.0,
+"kX": 1.78023589,
+"kY": -1.78023589,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": -52.0,
+"y": -13.0,
+"z": 0,
+"cX": 0.88,
+"cY": 1.04,
+"kX": 0.5515241,
+"kY": -0.5515241,
+"fi": 11,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": -39.0,
+"y": -17.0,
+"z": 0,
+"cX": 0.96,
+"cY": 1.08,
+"kX": 0.1605702,
+"kY": -0.1605702,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": -26.0,
+"y": -19.0,
+"z": 0,
+"cX": 1.04,
+"cY": 1.12000012,
+"kX": 0.1070468,
+"kY": -0.1070468,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": -13.0,
+"y": -20.0,
+"z": 0,
+"cX": 1.12,
+"cY": 1.16000009,
+"kX": 0.0535234,
+"kY": -0.0535234,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": -21.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.2,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": 13.0,
+"y": -20.0,
+"z": 0,
+"cX": 1.14,
+"cY": 1.16000009,
+"kX": -0.0605047755,
+"kY": 0.0605047755,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": 26.0,
+"y": -19.0,
+"z": 0,
+"cX": 1.07999992,
+"cY": 1.12000012,
+"kX": -0.121009544,
+"kY": 0.121009544,
+"fi": 17,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": 39.0,
+"y": -17.0,
+"z": 0,
+"cX": 1.02,
+"cY": 1.08,
+"kX": -0.181514323,
+"kY": 0.181514323,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": 52.0,
+"y": -13.0,
+"z": 0,
+"cX": 0.96,
+"cY": 1.04,
+"kX": -0.4049164,
+"kY": 0.4049164,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": 65.0,
+"y": -4.0,
+"z": 0,
+"cX": 0.9,
+"cY": 1.0,
+"kX": -1.11701071,
+"kY": 1.11701071,
+"fi": 20,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": 65.0,
+"y": -4.0,
+"z": 0,
+"cX": 0.9,
+"cY": 1.0,
+"kX": -1.11701071,
+"kY": 1.11701071,
+"fi": 21,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 252,
+"g": 129,
+"b": 37
+}
+},
+{
+"dI": 0,
+"x": 65.0,
+"y": -4.0,
+"z": 0,
+"cX": 0.9,
+"cY": 1.0,
+"kX": -1.11701071,
+"kY": 1.11701071,
+"fi": 30,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 252,
+"g": 129,
+"b": 37
+}
+}
+]
+},
+{
+"name": "Layer6",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 4.0,
+"z": 0,
+"cX": 0.45,
+"cY": 0.35,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 143,
+"g": 25,
+"b": 3
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 4.0,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.299999923,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 105,
+"b": 60
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 4.0,
+"z": 0,
+"cX": 0.45,
+"cY": 0.35,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 30,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 143,
+"g": 25,
+"b": 3
+}
+}
+]
+},
+{
+"name": "huatuoskill08",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 150,
+"g": 1,
+"b": 3
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 37,
+"b": 0
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 30,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 150,
+"g": 1,
+"b": 1
+}
+}
+]
+},
+{
+"name": "huatuoskill09",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 181,
+"g": 59,
+"b": 11
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 217,
+"g": 8,
+"b": 12
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 30,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 181,
+"g": 59,
+"b": 11
+}
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "xuanzhong_guangquan001_03",
+"width": 38.0,
+"height": 32.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "huatuoskill09",
+"width": 230.0,
+"height": 72.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "huatuoskill08",
+"width": 192.0,
+"height": 72.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "manualskill_caoren_attack_03",
+"width": 194.0,
+"height": 95.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"xuanzhong_guangquan0010.plist"
+],
+"config_png_path": [
+"xuanzhong_guangquan0010.png"
+]
+}

@@ -1,0 +1,186 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "shinei01_middle_si01",
+"bone_data": [
+{
+"name": "Layer1",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 1,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "shinei01_middle_si01.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "shinei01_middle_si01",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 71,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.333333343,
+"mov_bone_data": [
+{
+"name": "Layer1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 6.5371432304382324,
+"y": -1.0057142972946167,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0502857,
+"kX": -0.1404242,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 12.257143020629883,
+"y": -1.8857142925262451,
+"z": 0,
+"cX": 1.0,
+"cY": 1.09428573,
+"kX": -0.263295382,
+"kY": 0.0,
+"fi": 30,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 13.0,
+"y": -2.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.1,
+"kX": -0.279252678,
+"kY": 0.0,
+"fi": 35,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 6.4628567695617676,
+"y": -0.9942857027053833,
+"z": 0,
+"cX": 1.0,
+"cY": 1.04971433,
+"kX": -0.138828471,
+"kY": 0.0,
+"fi": 51,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.74285697937011719,
+"y": -0.11428570747375488,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0057143,
+"kX": -0.0159572959,
+"kY": 0.0,
+"fi": 65,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 70,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "shinei01_middle_si01",
+"width": 513.0,
+"height": 64.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"shinei01_middle_si010.plist"
+],
+"config_png_path": [
+"shinei01_middle_si010.png"
+]
+}

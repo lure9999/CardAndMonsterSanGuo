@@ -1,0 +1,148 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "xuejing_front_tree06",
+"bone_data": [
+{
+"name": "Layer20",
+"parent": "",
+"dI": 0,
+"x": 208.99957275390625,
+"y": 136.78416442871094,
+"z": 1,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "xuejing_front_tree06.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "xuejing_front_tree06",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 121,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer20",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 87.499496459960938,
+"y": 117.49931335449219,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 101.27497863769531,
+"y": 117.02496337890625,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.04145157,
+"kY": 0.0,
+"fi": 53,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 102.0,
+"y": 117.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.04363323,
+"kY": 0.0,
+"fi": 60,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 88.466194152832031,
+"y": 117.46602630615234,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.00290888175,
+"kY": 0.0,
+"fi": 112,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 87.499496459960938,
+"y": 117.49931335449219,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 120,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "xuejing_front_tree06",
+"width": 443.0,
+"height": 293.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"xuejing_front_tree060.plist"
+],
+"config_png_path": [
+"xuejing_front_tree060.png"
+]
+}

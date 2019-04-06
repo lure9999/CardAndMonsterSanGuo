@@ -1,0 +1,249 @@
+{
+"classname": "CCNode",
+"name": "Root",
+"canedit": true,
+"objecttag": 10000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "sky",
+"canedit": true,
+"objecttag": 10004,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "xuanjuese_sky01",
+"canedit": true,
+"objecttag": 10003,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 570,
+"y": 320,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_xuanjuese/xuanjuese_sky01.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+}
+],
+"components": []
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "front",
+"canedit": true,
+"objecttag": 10005,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 20,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "xuanjuese_front_qizi01",
+"canedit": true,
+"objecttag": 10006,
+"rotation": 0,
+"scalex": 2,
+"scaley": 2,
+"visible": 1,
+"x": 190.00003051757813,
+"y": 592.5001220703125,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_xuanjuese/xuanjuese_front_qizi01.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "xuanjuese_front_grass01",
+"canedit": true,
+"objecttag": 10007,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 794.03533935546875,
+"y": 1.0526165962219238,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/Scene_xuanjuese/xuanjuese_front_grass01/xuanjuese_front_grass01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "xuanjuese_front_tree",
+"canedit": true,
+"objecttag": 10008,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 1138.000244140625,
+"y": 404.00003051757812,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/Scene_xuanjuese/xuanjuese_front_tree/xuanjuese_front_tree.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "zhucheng_light001",
+"canedit": true,
+"objecttag": 10010,
+"rotation": 0,
+"scalex": 2,
+"scaley": 2,
+"visible": 1,
+"x": 72,
+"y": 426.99996948242188,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/zhucheng_light001/zhucheng_light001.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "xuanjuese_front_huo01",
+"canedit": true,
+"objecttag": 10011,
+"rotation": 0,
+"scalex": 2,
+"scaley": 2,
+"visible": 1,
+"x": 78,
+"y": 65,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_xuanjuese/xuanjuese_front_huo01.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+}
+],
+"components": []
+}
+],
+"CanvasSize": {
+"_height": 640,
+"_width": 1140
+},
+"Triggers": null,
+"Version": "1.5.0.0",
+"components": [
+{
+"__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCScene",
+"name": "CCScene",
+"scenename": "Scene_xuanjuese"
+},
+{
+"__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCBackgroundAudio",
+"name": "CCBackgroundAudio",
+"file": null,
+"fileData": {
+"path": null,
+"plistFile": null,
+"resourceType": 0
+},
+"loop": 0
+}
+]
+}

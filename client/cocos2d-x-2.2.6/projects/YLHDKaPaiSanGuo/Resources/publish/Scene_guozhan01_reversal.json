@@ -1,0 +1,131 @@
+{
+"classname": "CCNode",
+"name": "Root",
+"canedit": true,
+"objecttag": 10000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_Layer_Middle",
+"canedit": true,
+"objecttag": 12000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 20,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_Layer_Middle01",
+"canedit": true,
+"objecttag": 12100,
+"rotation": 0,
+"scalex": -1,
+"scaley": 1,
+"visible": 1,
+"x": 1710,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_guozhan01_01",
+"canedit": true,
+"objecttag": 10004,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 525,
+"y": 320,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_guozhan01/Scene_guozhan01_01.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_guozhan01_02",
+"canedit": true,
+"objecttag": 10005,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 1380,
+"y": 320,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_guozhan01/Scene_guozhan01_02.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+}
+],
+"components": []
+}
+],
+"components": []
+}
+],
+"CanvasSize": {
+"_height": 640,
+"_width": 1710
+},
+"Triggers": null,
+"Version": "1.5.0.0",
+"components": [
+{
+"__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCScene",
+"name": "CCScene",
+"scenename": "Scene_guozhan01_reversal"
+},
+{
+"__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCBackgroundAudio",
+"name": "CCBackgroundAudio",
+"file": null,
+"fileData": {
+"path": "audio/bgm/music01.mp3",
+"plistFile": "",
+"resourceType": 0
+},
+"loop": 1
+}
+]
+}

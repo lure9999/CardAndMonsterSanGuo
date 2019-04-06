@@ -1,0 +1,624 @@
+{
+"classname": "CCNode",
+"name": "Root",
+"canedit": true,
+"objecttag": 10000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_Layer_Sky",
+"canedit": true,
+"objecttag": 14000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_zhanchang_shu03",
+"canedit": true,
+"objecttag": 10007,
+"rotation": 0,
+"scalex": 2,
+"scaley": 2,
+"visible": 1,
+"x": 570,
+"y": 554,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_zhanchang_shu/Scene_zhanchang_shu03.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+}
+],
+"components": []
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_Layer_Back",
+"canedit": true,
+"objecttag": 13000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "denglu_front_wu01",
+"canedit": true,
+"objecttag": 10008,
+"rotation": -17,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 283.76205444335938,
+"y": 540.77789306640625,
+"zorder": 10,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/denglu/denglu_front_wu01/denglu_front_wu01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "denglu_front_wu01_Copy",
+"canedit": true,
+"objecttag": 14005,
+"rotation": -17,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 888.57135009765625,
+"y": 539.99993896484375,
+"zorder": 20,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/denglu/denglu_front_wu01/denglu_front_wu01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+}
+],
+"components": []
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "particl01",
+"canedit": true,
+"objecttag": 14043,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 15,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rain",
+"canedit": true,
+"objecttag": 14012,
+"rotation": -22,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 384,
+"y": 782.6666259765625,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComParticleSystemSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCParticleSystemQuad",
+"name": "CCParticleSystemQuad",
+"file": null,
+"fileData": {
+"path": "Image/Fight/particl/rain/rain.plist",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+}
+],
+"components": []
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_Layer_Middle",
+"canedit": true,
+"objecttag": 12000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_zhanchang_shu01",
+"canedit": true,
+"objecttag": 10009,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 90,
+"y": 320,
+"zorder": 10,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_zhanchang_shu/Scene_zhanchang_shu01.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_zhanchang_shu02",
+"canedit": true,
+"objecttag": 14002,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 660,
+"y": 320,
+"zorder": 20,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_zhanchang_shu/Scene_zhanchang_shu02.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_zhanchang_shudenglong01",
+"canedit": true,
+"objecttag": 14003,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 671.212158203125,
+"y": 499.939453125,
+"zorder": 30,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/Scene_zhanchang/Scene_zhanchang_shudenglong01/Scene_zhanchang_shudenglong01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_zhanchang_shudenglong01",
+"canedit": true,
+"objecttag": 14004,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 464.75006103515625,
+"y": 502,
+"zorder": 40,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/Scene_zhanchang/Scene_zhanchang_shudenglong01/Scene_zhanchang_shudenglong01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation2"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "gaoqiang_rain02",
+"canedit": true,
+"objecttag": 14006,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 412.84524536132812,
+"y": 305.23809814453125,
+"zorder": 50,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/gaoqiang/gaoqiang_rain02/gaoqiang_rain02.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "gaoqiang_rain02_Copy",
+"canedit": true,
+"objecttag": 14007,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 341.66668701171875,
+"y": 209.99996948242188,
+"zorder": 60,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/gaoqiang/gaoqiang_rain02/gaoqiang_rain02.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation2"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "gaoqiang_rain02_Copy",
+"canedit": true,
+"objecttag": 14008,
+"rotation": 0,
+"scalex": -1,
+"scaley": 1,
+"visible": 1,
+"x": 731.66656494140625,
+"y": 250.00001525878906,
+"zorder": 70,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/gaoqiang/gaoqiang_rain02/gaoqiang_rain02.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "gaoqiang_rain02_Copy",
+"canedit": true,
+"objecttag": 14009,
+"rotation": 0,
+"scalex": -1,
+"scaley": 1,
+"visible": 1,
+"x": 828.3333740234375,
+"y": 311.6666259765625,
+"zorder": 80,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/gaoqiang/gaoqiang_rain02/gaoqiang_rain02.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation2"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "gaoqiang_rain02_Copy",
+"canedit": true,
+"objecttag": 14010,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 628.3333740234375,
+"y": 221.66665649414063,
+"zorder": 90,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/gaoqiang/gaoqiang_rain02/gaoqiang_rain02.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_zhanchang_shuqizi01",
+"canedit": true,
+"objecttag": 14058,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 185.76722717285156,
+"y": 558,
+"zorder": 91,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/Scene_zhanchang/Scene_zhanchang_shuqizi01/Scene_zhanchang_shuqizi01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_zhanchang_shuqizi02",
+"canedit": true,
+"objecttag": 14059,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 968,
+"y": 560.50006103515625,
+"zorder": 92,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/Scene_zhanchang/Scene_zhanchang_shuqizi02/Scene_zhanchang_shuqizi02.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "rain",
+"canedit": true,
+"objecttag": 14013,
+"rotation": -24,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 564,
+"y": 980,
+"zorder": 100,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComParticleSystemSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCParticleSystemQuad",
+"name": "CCParticleSystemQuad",
+"file": null,
+"fileData": {
+"path": "Image/Fight/particl/rain/rain.plist",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+}
+],
+"components": []
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_Layer_Font",
+"canedit": true,
+"objecttag": 11000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "Scene_zhanchang_shu04",
+"canedit": true,
+"objecttag": 10010,
+"rotation": 0,
+"scalex": 2,
+"scaley": 2,
+"visible": 1,
+"x": 570,
+"y": 227,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_zhanchang_shu/Scene_zhanchang_shu04.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+}
+],
+"components": []
+}
+],
+"CanvasSize": {
+"_height": 640,
+"_width": 1140
+},
+"Triggers": null,
+"Version": "1.5.0.0",
+"components": [
+{
+"__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCScene",
+"name": "CCScene",
+"scenename": "Scene_zhanchang_shu"
+},
+{
+"__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCBackgroundAudio",
+"name": "CCBackgroundAudio",
+"file": null,
+"fileData": {
+"path": "audio/bgm/music_pvp.mp3",
+"plistFile": "",
+"resourceType": 0
+},
+"loop": 1
+}
+]
+}

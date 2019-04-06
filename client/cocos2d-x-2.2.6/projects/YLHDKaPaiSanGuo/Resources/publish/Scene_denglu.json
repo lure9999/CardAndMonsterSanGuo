@@ -1,0 +1,236 @@
+{
+"classname": "CCNode",
+"name": "Root",
+"canedit": true,
+"objecttag": 10000,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "sky",
+"canedit": true,
+"objecttag": 10003,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": null,
+"canedit": true,
+"objecttag": 10005,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 570,
+"y": 320,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCSprite",
+"name": "CCSprite",
+"file": null,
+"fileData": {
+"path": "Image/Fight/Scene/Scene_denglu/denglu_ground01.png",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+}
+],
+"components": []
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "front",
+"canedit": true,
+"objecttag": 10004,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "taohua",
+"canedit": true,
+"objecttag": 10006,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 90.877189636230469,
+"y": 597.344970703125,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/denglu/denglu_front_tree01/denglu_front_tree01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "wu",
+"canedit": true,
+"objecttag": 10014,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 240.00003051757813,
+"y": 102.25,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCArmature",
+"name": "CCArmature",
+"file": null,
+"fileData": {
+"path": "Image/Fight/animation/denglu/denglu_front_wu01/denglu_front_wu01.ExportJson",
+"plistFile": "",
+"resourceType": 0
+},
+"isShowColliderRect": false,
+"selectedactionname": "Animation1"
+}
+]
+}
+],
+"components": []
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "particl",
+"canedit": true,
+"objecttag": 10008,
+"rotation": 0,
+"scalex": 1,
+"scaley": 1,
+"visible": 1,
+"x": 0,
+"y": 0,
+"zorder": 1,
+"gameobjects": [
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "taohua02",
+"canedit": true,
+"objecttag": 10012,
+"rotation": 20.0411587,
+"scalex": 2,
+"scaley": 2,
+"visible": 1,
+"x": 30.33331298828125,
+"y": 529.66668701171875,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComParticleSystemSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCParticleSystemQuad",
+"name": "CCParticleSystemQuad",
+"file": null,
+"fileData": {
+"path": "Image/Fight/particl/taohua/denglu_front_taohua02.plist",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+},
+{
+"__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+"classname": "CCNode",
+"name": "taohua01",
+"canedit": true,
+"objecttag": 10014,
+"rotation": 0,
+"scalex": 1.5,
+"scaley": 1.5,
+"visible": 1,
+"x": 107.50001525878906,
+"y": 544.5001220703125,
+"zorder": 1,
+"gameobjects": [],
+"components": [
+{
+"__type": "ComParticleSystemSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCParticleSystemQuad",
+"name": "CCParticleSystemQuad",
+"file": null,
+"fileData": {
+"path": "Image/Fight/particl/taohua/denglu_front_taohua01.plist",
+"plistFile": "",
+"resourceType": 0
+}
+}
+]
+}
+],
+"components": []
+}
+],
+"CanvasSize": {
+"_height": 640,
+"_width": 1140
+},
+"Triggers": null,
+"Version": "1.5.0.0",
+"components": [
+{
+"__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCScene",
+"name": "CCScene",
+"scenename": "Scene_denglu"
+},
+{
+"__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
+"classname": "CCBackgroundAudio",
+"name": "CCBackgroundAudio",
+"file": null,
+"fileData": {
+"path": null,
+"plistFile": null,
+"resourceType": 0
+},
+"loop": 0
+}
+]
+}

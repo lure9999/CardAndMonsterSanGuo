@@ -1,0 +1,626 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "zhaoyun_manualskill",
+"bone_data": [
+{
+"name": "Layer5_Copy8",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 4,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 1.57079637,
+"kY": -1.57079649,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "machao_manualskill01_guangxian01.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer5_Copy9",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 3,
+"cX": 1.50000012,
+"cY": 1.0,
+"kX": 1.57079637,
+"kY": -1.57079649,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "machao_manualskill01_guangxian01.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer5",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 2,
+"cX": 1.30000007,
+"cY": 1.0,
+"kX": 1.57079637,
+"kY": -1.57079649,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "machao_manualskill01_guangxian01.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "zhaoyun_manualskill",
+"parent": "",
+"dI": 2,
+"x": -204.0,
+"y": 139.0,
+"z": 1,
+"cX": 1.29999983,
+"cY": 1.19999993,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "dazhao_ma001new_03.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "dazhao_ma001new_05.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "dazhao_ma001new_04.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "zhaoyun_manualskill",
+"mov_data": [
+{
+"name": "zhaoyun_manualskill",
+"dr": 19,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer5_Copy8",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -11.0,
+"y": 165.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 66,
+"g": 207,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -11.0,
+"y": 165.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 66,
+"g": 207,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -138.5,
+"y": 165.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.50000012,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 66,
+"g": 207,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -266.0,
+"y": 165.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.00000024,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 66,
+"g": 207,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -266.0,
+"y": 165.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.00000024,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 17,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 66,
+"g": 207,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer5_Copy9",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 42.0,
+"y": 130.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 66,
+"g": 207,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 42.0,
+"y": 130.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 66,
+"g": 207,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -137.0,
+"y": 130.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.50000012,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 66,
+"g": 207,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -316.0,
+"y": 130.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.00000024,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 11,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 66,
+"g": 207,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -316.0,
+"y": 130.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.00000024,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 66,
+"g": 207,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer5",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 59.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 66,
+"g": 207,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 59.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 1,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 66,
+"g": 207,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -144.0,
+"y": 59.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.50000012,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 66,
+"g": 207,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -288.0,
+"y": 59.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.00000024,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 7,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 66,
+"g": 207,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -288.0,
+"y": 59.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.00000024,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 66,
+"g": 207,
+"b": 255
+}
+}
+]
+},
+{
+"name": "zhaoyun_manualskill",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 2,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.98,
+"cY": 1.0,
+"kX": 0.0174532924,
+"kY": -0.0174532924,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -5.0,
+"y": -2.0,
+"z": 0,
+"cX": 1.0,
+"cY": 0.98,
+"kX": 0.0174532924,
+"kY": -0.0174532924,
+"fi": 3,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.98,
+"cY": 1.0,
+"kX": 0.0174532924,
+"kY": -0.0174532924,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.98,
+"cY": 1.0,
+"kX": 0.0174532924,
+"kY": -0.0174532924,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -5.0,
+"y": -2.0,
+"z": 0,
+"cX": 1.0,
+"cY": 0.98,
+"kX": 0.0174532924,
+"kY": -0.0174532924,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.98,
+"cY": 1.0,
+"kX": 0.0174532924,
+"kY": -0.0174532924,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.98,
+"cY": 1.0,
+"kX": 0.0174532924,
+"kY": -0.0174532924,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "dazhao_ma001new_03",
+"width": 500.0,
+"height": 400.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "dazhao_ma001new_05",
+"width": 500.0,
+"height": 400.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "dazhao_ma001new_04",
+"width": 500.0,
+"height": 400.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "machao_manualskill01_guangxian01",
+"width": 6.0,
+"height": 95.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"zhaoyun_manualskill0.plist",
+"zhaoyun_manualskill1.plist",
+"zhaoyun_manualskill2.plist"
+],
+"config_png_path": [
+"zhaoyun_manualskill0.png",
+"zhaoyun_manualskill1.png",
+"zhaoyun_manualskill2.png"
+]
+}

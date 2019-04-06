@@ -1,0 +1,148 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "Scene_zhanchang_wutree01",
+"bone_data": [
+{
+"name": "Layer5",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 2,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_zhanchang_wutree01.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "Scene_zhanchang_wutree01",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 61,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.2,
+"mov_bone_data": [
+{
+"name": "Layer5",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 8.3999996185302734,
+"y": -2.7999999523162842,
+"z": 0,
+"cX": 1.028,
+"cY": 1.0,
+"kX": 0.0488692224,
+"kY": -0.0162897389,
+"fi": 25,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 9.0,
+"y": -3.0,
+"z": 0,
+"cX": 1.03,
+"cY": 1.0,
+"kX": 0.05235988,
+"kY": -0.0174532924,
+"fi": 30,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.60000038146972656,
+"y": -0.20000004768371582,
+"z": 0,
+"cX": 1.002,
+"cY": 1.0,
+"kX": 0.00349065661,
+"kY": -0.00116355345,
+"fi": 55,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 60,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "Scene_zhanchang_wutree01",
+"width": 149.0,
+"height": 139.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"Scene_zhanchang_wutree010.plist"
+],
+"config_png_path": [
+"Scene_zhanchang_wutree010.png"
+]
+}

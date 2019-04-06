@@ -1,0 +1,161 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "xuejing_front_tree02",
+"bone_data": [
+{
+"name": "Layer2",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 37.0,
+"z": 1,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "xuejing_front_tree02.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "xuejing_front_tree02",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 61,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 1.6521739959716797,
+"y": -0.41304349899291992,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0360448435,
+"kY": -0.00720896851,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.40000009536743164,
+"y": -0.10000002384185791,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.008726649,
+"kY": -0.00174533017,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 3.5999999046325684,
+"y": -0.89999997615814209,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.07853981,
+"kY": -0.0157079622,
+"fi": 37,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 4.0,
+"y": -1.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.08726646,
+"kY": -0.0174532924,
+"fi": 45,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 1.6521739959716797,
+"y": -0.41304349899291992,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0360448435,
+"kY": -0.00720896851,
+"fi": 60,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "xuejing_front_tree02",
+"width": 122.0,
+"height": 39.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"xuejing_front_tree020.plist"
+],
+"config_png_path": [
+"xuejing_front_tree020.png"
+]
+}

@@ -1,0 +1,280 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "dongzhuo_bullet",
+"bone_data": [
+{
+"name": "skill01",
+"parent": "",
+"dI": 0,
+"x": -230.81144714355469,
+"y": -23.525108337402344,
+"z": 2,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "dongzhuo_ball_00.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "dust04",
+"parent": "",
+"dI": 0,
+"x": 14.892867088317871,
+"y": -22.724613189697266,
+"z": 1,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "bullet004_01_dongzhou.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "bullet004_02_dongzhuo.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "bullet004_03_dongzhuo.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "dongzhuo_bullet",
+"mov_data": [
+{
+"name": "skill",
+"dr": 7,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "skill01",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 230.0,
+"y": 25.0,
+"z": 0,
+"cX": 1.60000014,
+"cY": 1.7,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 230.0,
+"y": 25.0,
+"z": 0,
+"cX": 1.60000014,
+"cY": 1.7,
+"kX": -6.28318548,
+"kY": 6.28318644,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "dust04",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -70.0,
+"y": -7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 110,
+"g": 77,
+"b": 49
+}
+},
+{
+"dI": 1,
+"x": -75.0,
+"y": -7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 110,
+"g": 77,
+"b": 49
+}
+},
+{
+"dI": 2,
+"x": -75.0,
+"y": -7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 110,
+"g": 77,
+"b": 49
+}
+},
+{
+"dI": 0,
+"x": -75.0,
+"y": -7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 110,
+"g": 77,
+"b": 49
+}
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "bullet004_01_dongzhou",
+"width": 117.0,
+"height": 27.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "bullet004_02_dongzhuo",
+"width": 117.0,
+"height": 27.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "bullet004_03_dongzhuo",
+"width": 117.0,
+"height": 27.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "dongzhuo_ball_00",
+"width": 85.0,
+"height": 85.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"dongzhuo_bullet0.plist"
+],
+"config_png_path": [
+"dongzhuo_bullet0.png"
+]
+}

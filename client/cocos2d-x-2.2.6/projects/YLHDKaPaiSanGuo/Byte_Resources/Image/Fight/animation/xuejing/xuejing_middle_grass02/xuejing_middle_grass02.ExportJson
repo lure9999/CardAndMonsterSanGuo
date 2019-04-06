@@ -1,0 +1,161 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "xuejing_middle_grass02",
+"bone_data": [
+{
+"name": "Layer19",
+"parent": "",
+"dI": 0,
+"x": 40.212364196777344,
+"y": 39.226371765136719,
+"z": 1,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "xuejing_middle_grass02.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "xuejing_middle_grass02",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 71,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer19",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 9.0793647766113281,
+"y": -2.4761905670166016,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.2016825,
+"kY": -0.0432176776,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.62857151031494141,
+"y": -0.17142868041992188,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0139626265,
+"kY": -0.002991993,
+"fi": 22,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 30,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 10.057143211364746,
+"y": -2.7428572177886963,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.223402143,
+"kY": -0.04787189,
+"fi": 57,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 11.0,
+"y": -3.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.2443461,
+"kY": -0.05235988,
+"fi": 65,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 9.0793647766113281,
+"y": -2.4761905670166016,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.2016825,
+"kY": -0.0432176776,
+"fi": 70,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "xuejing_middle_grass02",
+"width": 145.0,
+"height": 113.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"xuejing_middle_grass020.plist"
+],
+"config_png_path": [
+"xuejing_middle_grass020.png"
+]
+}

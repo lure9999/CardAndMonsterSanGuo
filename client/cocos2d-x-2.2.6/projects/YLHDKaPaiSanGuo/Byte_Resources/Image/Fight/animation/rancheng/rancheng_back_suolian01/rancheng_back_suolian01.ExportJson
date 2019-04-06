@@ -1,0 +1,219 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "rancheng_back_suolian01",
+"bone_data": [
+{
+"name": "Layer23",
+"parent": "",
+"dI": 0,
+"x": 171.83287048339844,
+"y": 19.006536483764648,
+"z": 3,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "rancheng_back_suolian02.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer21",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 2,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "rancheng_back_suolian01.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "rancheng_back_suolian01",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 51,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer23",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -1.8000000715255737,
+"y": 0.60000002384185791,
+"z": 0,
+"cX": 1.12,
+"cY": 1.0,
+"kX": 0.1675516,
+"kY": -0.0209439546,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -3.0,
+"y": 1.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.279252678,
+"kY": -0.03490659,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 35,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -1.8000000715255737,
+"y": 0.60000002384185791,
+"z": 0,
+"cX": 1.12,
+"cY": 1.0,
+"kX": 0.1675516,
+"kY": -0.0209439546,
+"fi": 50,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Layer21",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.191986218,
+"kY": -4.47034836E-08,
+"fi": 25,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 50,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "rancheng_back_suolian01",
+"width": 268.0,
+"height": 265.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "rancheng_back_suolian02",
+"width": 314.0,
+"height": 224.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"rancheng_back_suolian010.plist"
+],
+"config_png_path": [
+"rancheng_back_suolian010.png"
+]
+}

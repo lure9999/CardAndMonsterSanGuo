@@ -1,0 +1,160 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "Scene_guozhan_yun04",
+"bone_data": [
+{
+"name": "Layer4",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 1,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "yun04.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "Scene_guozhan_yun04",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 131,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.2,
+"mov_bone_data": [
+{
+"name": "Layer4",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -10.0,
+"y": 40.0,
+"z": 0,
+"cX": 1.30000007,
+"cY": 1.1,
+"kX": 0.17453292,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -12.571428298950195,
+"y": 24.571426391601562,
+"z": 0,
+"cX": 1.19714284,
+"cY": 1.04857147,
+"kX": -0.00498665869,
+"kY": 0.0,
+"fi": 35,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -15.0,
+"y": 10.0,
+"z": 0,
+"cX": 1.1,
+"cY": 1.0,
+"kX": -0.17453292,
+"kY": 0.0,
+"fi": 70,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -12.666666984558106,
+"y": 24.0,
+"z": 0,
+"cX": 1.19333339,
+"cY": 1.04666662,
+"kX": -0.011635527,
+"kY": 0.0,
+"fi": 100,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -10.0,
+"y": 40.0,
+"z": 0,
+"cX": 1.30000007,
+"cY": 1.1,
+"kX": 0.17453292,
+"kY": 0.0,
+"fi": 130,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "yun04",
+"width": 229.0,
+"height": 200.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"Scene_guozhan_yun040.plist"
+],
+"config_png_path": [
+"Scene_guozhan_yun040.png"
+]
+}

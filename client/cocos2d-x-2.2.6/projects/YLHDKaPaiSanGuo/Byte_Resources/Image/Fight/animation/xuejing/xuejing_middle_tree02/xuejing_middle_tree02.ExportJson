@@ -1,0 +1,148 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "xuejing_middle_tree02",
+"bone_data": [
+{
+"name": "Layer1",
+"parent": "",
+"dI": 0,
+"x": -126.66666412353516,
+"y": 74.67333984375,
+"z": 1,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "xuejing_middle_tree02.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "xuejing_middle_tree02",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 81,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -2.3181817531585693,
+"y": -1.1590908765792847,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.0303449277,
+"kY": 0.0101149753,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -0.29999995231628418,
+"y": -0.14999997615814209,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.00392698869,
+"kY": 0.00130899623,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -3.7000000476837158,
+"y": -1.8500000238418579,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.04843289,
+"kY": 0.0161442962,
+"fi": 58,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -4.0,
+"y": -2.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.05235988,
+"kY": 0.0174532924,
+"fi": 65,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -2.3181817531585693,
+"y": -1.1590908765792847,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.0303449277,
+"kY": 0.0101149753,
+"fi": 80,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "xuejing_middle_tree02",
+"width": 477.0,
+"height": 159.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"xuejing_middle_tree020.plist"
+],
+"config_png_path": [
+"xuejing_middle_tree020.png"
+]
+}

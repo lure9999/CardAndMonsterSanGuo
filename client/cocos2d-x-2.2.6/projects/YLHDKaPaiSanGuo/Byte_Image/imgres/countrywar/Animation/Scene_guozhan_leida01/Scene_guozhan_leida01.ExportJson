@@ -1,0 +1,11102 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "Scene_guozhan_leida01",
+"bone_data": [
+{
+"name": "Scene_guozhan_leida05_5",
+"parent": "",
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 22,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_1.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_3.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_4.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_5.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_2",
+"parent": "",
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 21,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_2/Scene_guozhan_leida05_2_1.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_2/Scene_guozhan_leida05_2_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_2/Scene_guozhan_leida05_2_3.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_2/Scene_guozhan_leida05_2_4.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_2/Scene_guozhan_leida05_2_5.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_3.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_4.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_5.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_4",
+"parent": "",
+"dI": -1,
+"x": 0.0,
+"y": 0.0,
+"z": 20,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_4/Scene_guozhan_leida05_4_1.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_4/Scene_guozhan_leida05_4_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_4/Scene_guozhan_leida05_4_3.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_4/Scene_guozhan_leida05_4_4.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_4/Scene_guozhan_leida05_4_5.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6_2",
+"parent": "",
+"dI": -1,
+"x": 0.0,
+"y": 0.0,
+"z": 19,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_6.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6_1",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 18,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_6.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6",
+"parent": "",
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 17,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_6.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_2",
+"parent": "",
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 16,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_1.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_3.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_4.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_5.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_1",
+"parent": "",
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 15,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_1.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_3.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_4.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_5.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7",
+"parent": "",
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 14,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_1.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_3.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_4.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_5.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_3",
+"parent": "",
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 13,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_3/Scene_guozhan_leida05_3_1.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_3/Scene_guozhan_leida05_3_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_3/Scene_guozhan_leida05_3_3.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_3/Scene_guozhan_leida05_3_4.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_3/Scene_guozhan_leida05_3_5.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_1",
+"parent": "",
+"dI": -1,
+"x": 0.0,
+"y": 0.0,
+"z": 12,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_1/Scene_guozhan_leida05_1_1.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_1/Scene_guozhan_leida05_1_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_1/Scene_guozhan_leida05_1_3.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_1/Scene_guozhan_leida05_1_4.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_1/Scene_guozhan_leida05_1_5.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer4_Copy6",
+"parent": "",
+"dI": -1,
+"x": 52.9999885559082,
+"y": 122.44888305664063,
+"z": 11,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida04.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer14",
+"parent": "",
+"dI": -1,
+"x": 0.0,
+"y": 0.0,
+"z": 10,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida03_1.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida03_2.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida03_3.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida03_4.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida03_5.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida03_6.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer4_Copy7",
+"parent": "",
+"dI": -1,
+"x": 52.9999885559082,
+"y": 122.44888305664063,
+"z": 9,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida04.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer4_Copy8",
+"parent": "",
+"dI": -1,
+"x": 52.9999885559082,
+"y": 122.44888305664063,
+"z": 8,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida04.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer4_Copy9",
+"parent": "",
+"dI": -1,
+"x": 52.9999885559082,
+"y": 122.44888305664063,
+"z": 7,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida04.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer4_Copy10",
+"parent": "",
+"dI": -1,
+"x": 52.9999885559082,
+"y": 122.44888305664063,
+"z": 6,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida04.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Layer4",
+"parent": "",
+"dI": -1,
+"x": 52.9999885559082,
+"y": 122.44888305664063,
+"z": 5,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida04.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "Scene_guozhan_leida02",
+"parent": "",
+"dI": -1,
+"x": 0.0,
+"y": 0.0,
+"z": 4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida02.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "02",
+"parent": "",
+"dI": -1,
+"x": 0.0,
+"y": 0.0,
+"z": 3,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.558505356,
+"kY": -0.558505356,
+"arrow_x": 5.3048133850097656E-06,
+"arrow_y": -1.7665734048932791E-06,
+"effectbyskeleton": true,
+"display_data": [
+{
+"name": "Scene_guozhan_leida01_02.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": -28.0,
+"y": -2.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "03",
+"parent": "",
+"dI": -1,
+"x": 0.0,
+"y": 0.0,
+"z": 2,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.558505356,
+"kY": -0.558505356,
+"arrow_x": 5.3048133850097656E-06,
+"arrow_y": -1.7665734048932791E-06,
+"effectbyskeleton": true,
+"display_data": [
+{
+"name": "Scene_guozhan_leida01_02.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": -28.0,
+"y": -2.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+},
+{
+"name": "Scene_guozhan_leida01_03.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": -28.0,
+"y": -27.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "01",
+"parent": "",
+"dI": -1,
+"x": 0.0,
+"y": 0.0,
+"z": 1,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "Scene_guozhan_leida01_01.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "Scene_guozhan_leida01",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 1,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 1.0,
+"mov_bone_data": [
+{
+"name": "02",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "03",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "01",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+},
+{
+"name": "Animation2",
+"dr": 80,
+"lp": false,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "02",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 6.28318548,
+"kY": -6.283186,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 12.566371,
+"kY": -12.5663719,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 18.849556,
+"kY": -18.849556,
+"fi": 23,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 25.1327419,
+"kY": -25.1327438,
+"fi": 31,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 31.415926,
+"kY": -31.41593,
+"fi": 41,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 100,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 37.6991119,
+"kY": -37.6991158,
+"fi": 54,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 43.982296,
+"kY": -43.9823074,
+"fi": 71,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 44.2790031,
+"kY": -44.27901,
+"fi": 76,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 43.982296,
+"kY": -43.9823036,
+"fi": 80,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "03",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 6.28318548,
+"kY": -6.283186,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 12.566371,
+"kY": -12.5663719,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 18.849556,
+"kY": -18.849556,
+"fi": 23,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 25.1327419,
+"kY": -25.1327438,
+"fi": 31,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 31.415926,
+"kY": -31.41593,
+"fi": 41,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 37.6991119,
+"kY": -37.6991158,
+"fi": 54,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 43.982296,
+"kY": -43.9823036,
+"fi": 71,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 43.982296,
+"kY": -43.9823036,
+"fi": 80,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "01",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+},
+{
+"name": "Animation3",
+"dr": 30,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer14",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 5,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 5,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 5,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 30,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+}
+]
+},
+{
+"name": "Animation4",
+"dr": 24,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Scene_guozhan_leida02",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 103.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 135.0,
+"z": 0,
+"cX": 0.9,
+"cY": 0.9,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 103.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 24,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+},
+{
+"name": "Animation5",
+"dr": 23,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer4_Copy6",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 41.578945159912109,
+"y": -51.052619934082031,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.4886922,
+"kY": -0.4886922,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 29.15283203125,
+"y": -60.338302612304688,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.4886922,
+"kY": -0.4886922,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 41.578945159912109,
+"y": -51.052619934082031,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.4886922,
+"kY": -0.4886922,
+"fi": 23,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer4_Copy7",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 65.789459228515625,
+"y": -112.63151550292969,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.9424778,
+"kY": -0.9424778,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 180,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 35.653987884521484,
+"y": -112.71427154541016,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.9424778,
+"kY": -0.9424778,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 65.789459228515625,
+"y": -112.63151550292969,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.9424778,
+"kY": -0.9424778,
+"fi": 23,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 180,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer4_Copy8",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 180,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -4.2980327606201172,
+"y": -19.40887451171875,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 23,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 180,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer4_Copy9",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -108.0,
+"y": 0.52631378173828125,
+"z": 0,
+"cX": -0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 180,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -94.502479553222656,
+"y": -22.429359436035156,
+"z": 0,
+"cX": -1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -108.0,
+"y": 0.52631378173828125,
+"z": 0,
+"cX": -0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 23,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 180,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer4_Copy10",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -151.0,
+"y": -51.0,
+"z": 0,
+"cX": -0.799999952,
+"cY": 0.799999952,
+"kX": -0.4886922,
+"kY": 0.4886922,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 180,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -136.0,
+"y": -60.0,
+"z": 0,
+"cX": -1.0,
+"cY": 1.0,
+"kX": -0.4886922,
+"kY": 0.4886922,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -151.0,
+"y": -51.0,
+"z": 0,
+"cX": -0.799999952,
+"cY": 0.799999952,
+"kX": -0.4886922,
+"kY": 0.4886922,
+"fi": 23,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 180,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Layer4",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -175.0,
+"y": -112.0,
+"z": 0,
+"cX": -0.799999952,
+"cY": 0.9,
+"kX": -0.9424778,
+"kY": 0.9424778,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 180,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -144.0,
+"y": -112.0,
+"z": 0,
+"cX": -1.0,
+"cY": 1.0,
+"kX": -0.9424778,
+"kY": 0.9424778,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -175.0,
+"y": -112.0,
+"z": 0,
+"cX": -0.799999952,
+"cY": 0.9,
+"kX": -0.9424778,
+"kY": 0.9424778,
+"fi": 23,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 180,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+}
+]
+},
+{
+"name": "Animation6",
+"dr": 20,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Scene_guozhan_leida05_7_6_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 29.828058242797852,
+"y": 9.0,
+"z": -4,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.401425719,
+"kY": -0.401425719,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 29.828058242797852,
+"y": 9.0,
+"z": -6,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.401425719,
+"kY": -0.401425719,
+"fi": 1,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 34.681007385253906,
+"y": 14.0,
+"z": -6,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.6981317,
+"kY": 0.6981317,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 52.0,
+"y": 35.0,
+"z": -4,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 52.0,
+"y": 35.0,
+"z": -4,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 52.0,
+"y": 35.0,
+"z": -4,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 19.419473648071289,
+"y": 13.0,
+"z": -4,
+"cX": 0.766666651,
+"cY": 0.855555534,
+"kX": 0.356822878,
+"kY": -0.356822878,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 19.419473648071289,
+"y": 13.0,
+"z": -5,
+"cX": 0.766666651,
+"cY": 0.855555534,
+"kX": 0.356822878,
+"kY": -0.356822878,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 16.256628036499023,
+"y": 10.0,
+"z": -5,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.401425719,
+"kY": -0.401425719,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 28.417272567749023,
+"y": 21.0,
+"z": -5,
+"cX": 0.6999999,
+"cY": 1.0,
+"kX": -0.2617994,
+"kY": 0.2617994,
+"fi": 11,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 40.0,
+"y": 45.0,
+"z": -5,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 40.0,
+"y": 45.0,
+"z": -4,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -1.8013982772827148,
+"y": 68.0,
+"z": -4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -1.8013982772827148,
+"y": 68.0,
+"z": -4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -1.8013982772827148,
+"y": 68.0,
+"z": -4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -1.8013982772827148,
+"y": 68.0,
+"z": -4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -1.8013982772827148,
+"y": 68.0,
+"z": -4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -1.8013982772827148,
+"y": 68.0,
+"z": -4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -1.8013982772827148,
+"y": 68.0,
+"z": -4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -1.8013982772827148,
+"y": 68.0,
+"z": -4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -1.8013982772827148,
+"y": 68.0,
+"z": -4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -1.8013982772827148,
+"y": 68.0,
+"z": -4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -1.8013982772827148,
+"y": 68.0,
+"z": -4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -1.8013982772827148,
+"y": 68.0,
+"z": -4,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 24.185003280639648,
+"y": 13.0,
+"z": -2,
+"cX": 0.7,
+"cY": 1.70000017,
+"kX": 0.383972436,
+"kY": -0.383972436,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 24.185003280639648,
+"y": 13.0,
+"z": -2,
+"cX": 0.7,
+"cY": 1.70000017,
+"kX": 0.383972436,
+"kY": -0.383972436,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 24.185003280639648,
+"y": 13.0,
+"z": -2,
+"cX": 0.7,
+"cY": 1.70000017,
+"kX": 0.383972436,
+"kY": -0.383972436,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 24.185003280639648,
+"y": 13.0,
+"z": -2,
+"cX": 0.7,
+"cY": 1.70000017,
+"kX": 0.383972436,
+"kY": -0.383972436,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 24.185003280639648,
+"y": 13.0,
+"z": -2,
+"cX": 0.7,
+"cY": 1.70000017,
+"kX": 0.383972436,
+"kY": -0.383972436,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 24.185003280639648,
+"y": 13.0,
+"z": -2,
+"cX": 0.7,
+"cY": 1.70000017,
+"kX": 0.383972436,
+"kY": -0.383972436,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 24.185003280639648,
+"y": 13.0,
+"z": -2,
+"cX": 0.7,
+"cY": 1.70000017,
+"kX": 0.383972436,
+"kY": -0.383972436,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 24.185003280639648,
+"y": 13.0,
+"z": -2,
+"cX": 0.7,
+"cY": 1.70000017,
+"kX": 0.383972436,
+"kY": -0.383972436,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 24.185003280639648,
+"y": 13.0,
+"z": -2,
+"cX": 0.7,
+"cY": 1.70000017,
+"kX": 0.383972436,
+"kY": -0.383972436,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 24.185003280639648,
+"y": 13.0,
+"z": -2,
+"cX": 0.7,
+"cY": 1.70000017,
+"kX": 0.383972436,
+"kY": -0.383972436,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 24.185003280639648,
+"y": 13.0,
+"z": -2,
+"cX": 0.7,
+"cY": 1.70000017,
+"kX": 0.383972436,
+"kY": -0.383972436,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 24.185003280639648,
+"y": 13.0,
+"z": -2,
+"cX": 0.7,
+"cY": 1.70000017,
+"kX": 0.383972436,
+"kY": -0.383972436,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_3",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 13.785719871520996,
+"y": 4.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 13.785719871520996,
+"y": 4.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 13.785719871520996,
+"y": 4.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 13.785719871520996,
+"y": 4.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 13.785719871520996,
+"y": 4.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 13.785719871520996,
+"y": 4.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 13.785719871520996,
+"y": 4.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 13.785719871520996,
+"y": 4.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 13.785719871520996,
+"y": 4.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 13.785719871520996,
+"y": 4.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 13.785719871520996,
+"y": 4.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 13.785719871520996,
+"y": 4.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 64.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 208,
+"b": 0
+}
+},
+{
+"dI": 1,
+"x": 0.0,
+"y": 64.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 208,
+"b": 0
+}
+},
+{
+"dI": 2,
+"x": 0.0,
+"y": 64.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 208,
+"b": 0
+}
+},
+{
+"dI": 3,
+"x": 0.0,
+"y": 64.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 208,
+"b": 0
+}
+},
+{
+"dI": 4,
+"x": 0.0,
+"y": 64.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 208,
+"b": 0
+}
+},
+{
+"dI": 4,
+"x": 0.0,
+"y": 64.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 208,
+"b": 0
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 64.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 208,
+"b": 0
+}
+},
+{
+"dI": 1,
+"x": 0.0,
+"y": 64.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 208,
+"b": 0
+}
+},
+{
+"dI": 2,
+"x": 0.0,
+"y": 64.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 208,
+"b": 0
+}
+},
+{
+"dI": 3,
+"x": 0.0,
+"y": 64.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 208,
+"b": 0
+}
+},
+{
+"dI": 4,
+"x": 0.0,
+"y": 64.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 208,
+"b": 0
+}
+},
+{
+"dI": 4,
+"x": 0.0,
+"y": 64.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 208,
+"b": 0
+}
+}
+]
+}
+]
+},
+{
+"name": "Animation7",
+"dr": 20,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Scene_guozhan_leida05_4",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -0.90909099578857422,
+"y": 8.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -0.90909099578857422,
+"y": 8.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -0.90909099578857422,
+"y": 8.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -0.90909099578857422,
+"y": 8.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -0.90909099578857422,
+"y": 8.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -0.90909099578857422,
+"y": 8.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -0.90909099578857422,
+"y": 8.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -0.90909099578857422,
+"y": 8.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -0.90909099578857422,
+"y": 8.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -0.90909099578857422,
+"y": 8.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -0.90909099578857422,
+"y": 8.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.799999952,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 4.1935462951660156,
+"y": -5.0,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 4.1935462951660156,
+"y": -5.0,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 26.1290340423584,
+"y": 2.0,
+"z": 0,
+"cX": 1.30000007,
+"cY": 1.0,
+"kX": 0.4886922,
+"kY": -0.4886922,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 53.0,
+"y": 11.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.7853982,
+"kY": -0.7853981,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 66.774200439453125,
+"y": 17.741935729980469,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 17,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 66.774200439453125,
+"y": 17.741935729980469,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -1.5999991893768311,
+"y": -21.19999885559082,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -1.5999991893768311,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 1,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 7.6000003814697266,
+"y": 10.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 23.600000381469727,
+"y": 20.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 7,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 45.0,
+"y": 27.0,
+"z": 0,
+"cX": 0.299999923,
+"cY": 0.299999923,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 45.0,
+"y": 27.0,
+"z": 0,
+"cX": 0.299999923,
+"cY": 0.299999923,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 35.0,
+"y": 39.0,
+"z": -4,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 35.0,
+"y": 39.0,
+"z": -4,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 1,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 1,
+"x": 35.0,
+"y": 39.0,
+"z": -4,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 2,
+"x": 35.0,
+"y": 39.0,
+"z": -4,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 3,
+"x": 35.0,
+"y": 39.0,
+"z": -4,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 4,
+"x": 35.0,
+"y": 39.0,
+"z": -4,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 35.0,
+"y": 39.0,
+"z": -4,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 1,
+"x": 35.0,
+"y": 39.0,
+"z": -4,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 2,
+"x": 35.0,
+"y": 39.0,
+"z": -4,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 3,
+"x": 35.0,
+"y": 39.0,
+"z": -4,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 4,
+"x": 35.0,
+"y": 39.0,
+"z": -4,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 4,
+"x": 35.0,
+"y": 39.0,
+"z": -4,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 2.9411792755126953,
+"y": 10.0,
+"z": 0,
+"cX": 1.49999988,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 2.9411792755126953,
+"y": 10.0,
+"z": 0,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 2.9411792755126953,
+"y": 10.0,
+"z": 0,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 2.9411792755126953,
+"y": 10.0,
+"z": 0,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 2.9411792755126953,
+"y": 10.0,
+"z": 0,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 2.9411792755126953,
+"y": 10.0,
+"z": 0,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 2.9411792755126953,
+"y": 10.0,
+"z": 0,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 2.9411792755126953,
+"y": 10.0,
+"z": 0,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 2.9411792755126953,
+"y": 10.0,
+"z": 0,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 2.9411792755126953,
+"y": 10.0,
+"z": 0,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 2.9411792755126953,
+"y": 10.0,
+"z": 0,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_3",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 31.512990951538086,
+"y": 36.0,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 181,
+"g": 104,
+"b": 0
+}
+},
+{
+"dI": 1,
+"x": 31.512990951538086,
+"y": 36.0,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 181,
+"g": 104,
+"b": 0
+}
+},
+{
+"dI": 2,
+"x": 31.512990951538086,
+"y": 36.0,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 181,
+"g": 104,
+"b": 0
+}
+},
+{
+"dI": 3,
+"x": 31.512990951538086,
+"y": 36.0,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 181,
+"g": 104,
+"b": 0
+}
+},
+{
+"dI": 4,
+"x": 31.512990951538086,
+"y": 36.0,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 181,
+"g": 104,
+"b": 0
+}
+},
+{
+"dI": 0,
+"x": 31.512990951538086,
+"y": 36.0,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 181,
+"g": 104,
+"b": 0
+}
+},
+{
+"dI": 1,
+"x": 31.512990951538086,
+"y": 36.0,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 181,
+"g": 104,
+"b": 0
+}
+},
+{
+"dI": 2,
+"x": 31.512990951538086,
+"y": 36.0,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 181,
+"g": 104,
+"b": 0
+}
+},
+{
+"dI": 3,
+"x": 31.512990951538086,
+"y": 36.0,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 181,
+"g": 104,
+"b": 0
+}
+},
+{
+"dI": 4,
+"x": 31.512990951538086,
+"y": 36.0,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 181,
+"g": 104,
+"b": 0
+}
+},
+{
+"dI": 4,
+"x": 31.512990951538086,
+"y": 36.0,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 181,
+"g": 104,
+"b": 0
+}
+}
+]
+}
+]
+},
+{
+"name": "Animation8",
+"dr": 20,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Scene_guozhan_leida05_5",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 47.888866424560547,
+"y": 33.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 51,
+"b": 61
+}
+},
+{
+"dI": 1,
+"x": 47.888866424560547,
+"y": 33.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 51,
+"b": 61
+}
+},
+{
+"dI": 2,
+"x": 47.888866424560547,
+"y": 33.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 51,
+"b": 61
+}
+},
+{
+"dI": 3,
+"x": 47.888866424560547,
+"y": 33.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 51,
+"b": 61
+}
+},
+{
+"dI": 4,
+"x": 47.888866424560547,
+"y": 33.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 51,
+"b": 61
+}
+},
+{
+"dI": 4,
+"x": 47.888866424560547,
+"y": 33.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 51,
+"b": 61
+}
+},
+{
+"dI": 0,
+"x": 47.888866424560547,
+"y": 33.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 51,
+"b": 61
+}
+},
+{
+"dI": 1,
+"x": 47.888866424560547,
+"y": 33.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 51,
+"b": 61
+}
+},
+{
+"dI": 2,
+"x": 47.888866424560547,
+"y": 33.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 51,
+"b": 61
+}
+},
+{
+"dI": 3,
+"x": 47.888866424560547,
+"y": 33.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 51,
+"b": 61
+}
+},
+{
+"dI": 4,
+"x": 47.888866424560547,
+"y": 33.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 51,
+"b": 61
+}
+},
+{
+"dI": 4,
+"x": 47.888866424560547,
+"y": 33.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 51,
+"b": 61
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 18.73529052734375,
+"y": -2.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 18.73529052734375,
+"y": -2.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 18.73529052734375,
+"y": -2.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 18.73529052734375,
+"y": -2.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 18.73529052734375,
+"y": -2.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 18.73529052734375,
+"y": -2.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 18.73529052734375,
+"y": -2.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 18.73529052734375,
+"y": -2.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 18.73529052734375,
+"y": -2.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 18.73529052734375,
+"y": -2.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 18.73529052734375,
+"y": -2.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 18.73529052734375,
+"y": -2.0,
+"z": 0,
+"cX": 1.2,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 27.40740966796875,
+"y": -23.0,
+"z": 0,
+"cX": 1.1,
+"cY": 1.4000001,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 27.40740966796875,
+"y": -23.0,
+"z": 0,
+"cX": 1.1,
+"cY": 1.4000001,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 27.40740966796875,
+"y": -23.0,
+"z": 0,
+"cX": 1.1,
+"cY": 1.4000001,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 49.259269714355469,
+"y": -4.0740742683410645,
+"z": 0,
+"cX": 1.1,
+"cY": 1.4000001,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 68.148155212402344,
+"y": 21.851852416992188,
+"z": 0,
+"cX": 0.7,
+"cY": 0.5,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 68.148155212402344,
+"y": 21.851852416992188,
+"z": 0,
+"cX": 0.7,
+"cY": 0.5,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 24.464305877685547,
+"y": -21.845232009887695,
+"z": 0,
+"cX": 1.70000017,
+"cY": 1.50000012,
+"kX": 0.541052043,
+"kY": -0.541052043,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 24.464305877685547,
+"y": -21.845232009887695,
+"z": 0,
+"cX": 1.70000017,
+"cY": 1.50000012,
+"kX": 0.541052043,
+"kY": -0.541052043,
+"fi": 1,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 56.369075775146484,
+"y": 1.4881086349487305,
+"z": 0,
+"cX": 2.00000024,
+"cY": 1.2,
+"kX": 0.541052043,
+"kY": -0.541052043,
+"fi": 7,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 82.083366394042969,
+"y": 17.678586959838867,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 82.083366394042969,
+"y": 17.678586959838867,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 82.083366394042969,
+"y": 17.678586959838867,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 47.8575325012207,
+"y": 33.000015258789062,
+"z": -3,
+"cX": 0.399999917,
+"cY": 0.799999952,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 47.0,
+"y": 33.0,
+"z": -3,
+"cX": 0.399999917,
+"cY": 0.799999952,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 47.0,
+"y": 33.0,
+"z": -3,
+"cX": 0.399999917,
+"cY": 0.799999952,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 47.0,
+"y": 33.0,
+"z": -3,
+"cX": 0.399999917,
+"cY": 0.799999952,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 47.0,
+"y": 33.0,
+"z": -3,
+"cX": 0.399999917,
+"cY": 0.799999952,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 47.0,
+"y": 33.0,
+"z": -3,
+"cX": 0.399999917,
+"cY": 0.799999952,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 47.0,
+"y": 33.0,
+"z": -3,
+"cX": 0.399999917,
+"cY": 0.799999952,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 47.0,
+"y": 33.0,
+"z": -3,
+"cX": 0.399999917,
+"cY": 0.799999952,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 47.0,
+"y": 33.0,
+"z": -3,
+"cX": 0.399999917,
+"cY": 0.799999952,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 47.0,
+"y": 33.0,
+"z": -3,
+"cX": 0.399999917,
+"cY": 0.799999952,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 47.0,
+"y": 33.0,
+"z": -3,
+"cX": 0.399999917,
+"cY": 0.799999952,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 47.0,
+"y": 33.0,
+"z": -3,
+"cX": 0.399999917,
+"cY": 0.799999952,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -41.257774353027344,
+"y": 37.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -41.257774353027344,
+"y": 37.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -41.257774353027344,
+"y": 37.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -41.257774353027344,
+"y": 37.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -41.257774353027344,
+"y": 37.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -41.257774353027344,
+"y": 37.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -41.257774353027344,
+"y": 37.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -41.257774353027344,
+"y": 37.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -41.257774353027344,
+"y": 37.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -41.257774353027344,
+"y": 37.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -41.257774353027344,
+"y": 37.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -41.257774353027344,
+"y": 37.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 27.114292144775391,
+"y": 20.0,
+"z": 0,
+"cX": 1.19999981,
+"cY": 2.999999,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 27.114292144775391,
+"y": 20.0,
+"z": 0,
+"cX": 1.19999981,
+"cY": 2.999999,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 27.114292144775391,
+"y": 20.0,
+"z": 0,
+"cX": 1.19999981,
+"cY": 2.999999,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 27.114292144775391,
+"y": 20.0,
+"z": 0,
+"cX": 1.19999981,
+"cY": 2.999999,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 27.114292144775391,
+"y": 20.0,
+"z": 0,
+"cX": 1.19999981,
+"cY": 2.999999,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 27.114292144775391,
+"y": 20.0,
+"z": 0,
+"cX": 1.19999981,
+"cY": 2.999999,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 27.114292144775391,
+"y": 20.0,
+"z": 0,
+"cX": 1.19999981,
+"cY": 2.999999,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 27.114292144775391,
+"y": 20.0,
+"z": 0,
+"cX": 1.19999981,
+"cY": 2.999999,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 27.114292144775391,
+"y": 20.0,
+"z": 0,
+"cX": 1.19999981,
+"cY": 2.999999,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 27.114292144775391,
+"y": 20.0,
+"z": 0,
+"cX": 1.19999981,
+"cY": 2.999999,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 27.114292144775391,
+"y": 20.0,
+"z": 0,
+"cX": 1.19999981,
+"cY": 2.999999,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 27.114292144775391,
+"y": 20.0,
+"z": 0,
+"cX": 1.19999981,
+"cY": 2.999999,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_3",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -40.965671539306641,
+"y": 34.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.399999917,
+"kX": 0.17453292,
+"kY": -0.17453292,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 139,
+"b": 141
+}
+},
+{
+"dI": 1,
+"x": -40.965671539306641,
+"y": 34.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.399999917,
+"kX": 0.17453292,
+"kY": -0.17453292,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 139,
+"b": 141
+}
+},
+{
+"dI": 2,
+"x": -40.965671539306641,
+"y": 34.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.399999917,
+"kX": 0.17453292,
+"kY": -0.17453292,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 139,
+"b": 141
+}
+},
+{
+"dI": 3,
+"x": -40.965671539306641,
+"y": 34.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.399999917,
+"kX": 0.17453292,
+"kY": -0.17453292,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 139,
+"b": 141
+}
+},
+{
+"dI": 4,
+"x": -40.965671539306641,
+"y": 34.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.399999917,
+"kX": 0.17453292,
+"kY": -0.17453292,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 139,
+"b": 141
+}
+},
+{
+"dI": 4,
+"x": -40.965671539306641,
+"y": 34.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.399999917,
+"kX": 0.17453292,
+"kY": -0.17453292,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 139,
+"b": 141
+}
+},
+{
+"dI": 0,
+"x": -40.965671539306641,
+"y": 34.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.399999917,
+"kX": 0.17453292,
+"kY": -0.17453292,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 139,
+"b": 141
+}
+},
+{
+"dI": 1,
+"x": -40.965671539306641,
+"y": 34.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.399999917,
+"kX": 0.17453292,
+"kY": -0.17453292,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 139,
+"b": 141
+}
+},
+{
+"dI": 2,
+"x": -40.965671539306641,
+"y": 34.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.399999917,
+"kX": 0.17453292,
+"kY": -0.17453292,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 139,
+"b": 141
+}
+},
+{
+"dI": 3,
+"x": -40.965671539306641,
+"y": 34.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.399999917,
+"kX": 0.17453292,
+"kY": -0.17453292,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 139,
+"b": 141
+}
+},
+{
+"dI": 4,
+"x": -40.965671539306641,
+"y": 34.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.399999917,
+"kX": 0.17453292,
+"kY": -0.17453292,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 139,
+"b": 141
+}
+},
+{
+"dI": 4,
+"x": -40.965671539306641,
+"y": 34.0,
+"z": 0,
+"cX": 0.4999999,
+"cY": 0.399999917,
+"kX": 0.17453292,
+"kY": -0.17453292,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 139,
+"b": 141
+}
+}
+]
+}
+]
+},
+{
+"name": "Animation9",
+"dr": 19,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Scene_guozhan_leida05_2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -32.758628845214844,
+"y": 67.241409301757812,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 250,
+"g": 134,
+"b": 153
+}
+},
+{
+"dI": 1,
+"x": -32.758628845214844,
+"y": 67.241409301757812,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 250,
+"g": 134,
+"b": 153
+}
+},
+{
+"dI": 2,
+"x": -32.758628845214844,
+"y": 67.241409301757812,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 250,
+"g": 134,
+"b": 153
+}
+},
+{
+"dI": 3,
+"x": -32.758628845214844,
+"y": 67.241409301757812,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 250,
+"g": 134,
+"b": 153
+}
+},
+{
+"dI": 4,
+"x": -32.758628845214844,
+"y": 67.241409301757812,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 250,
+"g": 134,
+"b": 153
+}
+},
+{
+"dI": 4,
+"x": -32.758628845214844,
+"y": 67.241409301757812,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 250,
+"g": 134,
+"b": 153
+}
+},
+{
+"dI": 0,
+"x": -32.758628845214844,
+"y": 67.241409301757812,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 250,
+"g": 134,
+"b": 153
+}
+},
+{
+"dI": 1,
+"x": -32.758628845214844,
+"y": 67.241409301757812,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 250,
+"g": 134,
+"b": 153
+}
+},
+{
+"dI": 2,
+"x": -32.758628845214844,
+"y": 67.241409301757812,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 250,
+"g": 134,
+"b": 153
+}
+},
+{
+"dI": 3,
+"x": -32.758628845214844,
+"y": 67.241409301757812,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 250,
+"g": 134,
+"b": 153
+}
+},
+{
+"dI": 4,
+"x": -32.758628845214844,
+"y": 67.241409301757812,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 250,
+"g": 134,
+"b": 153
+}
+},
+{
+"dI": 4,
+"x": -32.758628845214844,
+"y": 67.241409301757812,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 250,
+"g": 134,
+"b": 153
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 30.299999237060547,
+"y": 29.299999237060547,
+"z": -7,
+"cX": 2.0,
+"cY": 1.5,
+"kX": 0.7958701,
+"kY": -0.7958701,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 55.5,
+"y": 72.5,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 1.39626336,
+"kY": -1.39626336,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 55.5,
+"y": 72.5,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 1.39626336,
+"kY": -1.39626336,
+"fi": 7,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 55.5,
+"y": 72.5,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 1.39626336,
+"kY": -1.39626336,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -1.0,
+"y": -8.5,
+"z": 0,
+"cX": 1.90000021,
+"cY": 1.0,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -1.0,
+"y": -8.5,
+"z": -7,
+"cX": 1.90000021,
+"cY": 1.0,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 24.0,
+"y": 18.5,
+"z": -7,
+"cX": 2.3,
+"cY": 1.50000012,
+"kX": 0.6457718,
+"kY": -0.6457718,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 17.777765274047852,
+"y": -17.222221374511719,
+"z": -6,
+"cX": 1.80000019,
+"cY": 1.0,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 41.111103057861328,
+"y": 8.8888931274414062,
+"z": -6,
+"cX": 2.39999986,
+"cY": 1.50000012,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 77.77777099609375,
+"y": 48.333339691162109,
+"z": -6,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 11,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 77.77777099609375,
+"y": 48.333339691162109,
+"z": -6,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 17.777765274047852,
+"y": -17.222221374511719,
+"z": -6,
+"cX": 1.80000019,
+"cY": 1.0,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 17.777765274047852,
+"y": -17.222221374511719,
+"z": -6,
+"cX": 1.80000019,
+"cY": 1.0,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 3.0,
+"y": 13.5,
+"z": -4,
+"cX": 2.89999962,
+"cY": 2.89999962,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 3.0,
+"y": 13.5,
+"z": -4,
+"cX": 2.89999962,
+"cY": 2.89999962,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 3.0,
+"y": 13.5,
+"z": -4,
+"cX": 2.89999962,
+"cY": 2.89999962,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 3.0,
+"y": 13.5,
+"z": -4,
+"cX": 2.89999962,
+"cY": 2.89999962,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 3.0,
+"y": 13.5,
+"z": -4,
+"cX": 2.89999962,
+"cY": 2.89999962,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 3.0,
+"y": 13.5,
+"z": -4,
+"cX": 2.89999962,
+"cY": 2.89999962,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 3.0,
+"y": 13.5,
+"z": -4,
+"cX": 2.89999962,
+"cY": 2.89999962,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 3.0,
+"y": 13.5,
+"z": -4,
+"cX": 2.89999962,
+"cY": 2.89999962,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 3.0,
+"y": 13.5,
+"z": -4,
+"cX": 2.89999962,
+"cY": 2.89999962,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 3.0,
+"y": 13.5,
+"z": -4,
+"cX": 2.89999962,
+"cY": 2.89999962,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 3.0,
+"y": 13.5,
+"z": -4,
+"cX": 2.89999962,
+"cY": 2.89999962,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 3.0,
+"y": 13.5,
+"z": -4,
+"cX": 2.89999962,
+"cY": 2.89999962,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.33333206176757812,
+"y": 4.0,
+"z": 0,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 0.0,
+"y": 4.4444475173950195,
+"z": 0,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 0.0,
+"y": 4.4444475173950195,
+"z": 0,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 0.0,
+"y": 4.4444475173950195,
+"z": 0,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 0.0,
+"y": 4.4444475173950195,
+"z": 0,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 0.0,
+"y": 4.4444475173950195,
+"z": 0,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.33333206176757812,
+"y": 4.4444475173950195,
+"z": 0,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 0.0,
+"y": 4.4444475173950195,
+"z": 0,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 0.0,
+"y": 4.4444475173950195,
+"z": 0,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 0.0,
+"y": 4.4444475173950195,
+"z": 0,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 0.0,
+"y": 4.4444475173950195,
+"z": 0,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 0.0,
+"y": 4.4444475173950195,
+"z": 0,
+"cX": 2.0,
+"cY": 2.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+},
+{
+"name": "Animation10",
+"dr": 19,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Scene_guozhan_leida05_5",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 35.0,
+"y": 83.750015258789062,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 35.0,
+"y": 83.750015258789062,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 35.0,
+"y": 83.750015258789062,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 35.0,
+"y": 83.750015258789062,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 35.0,
+"y": 83.750015258789062,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 35.0,
+"y": 83.750015258789062,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 35.0,
+"y": 83.750015258789062,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 35.0,
+"y": 83.750015258789062,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 35.0,
+"y": 83.750015258789062,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 35.0,
+"y": 83.750015258789062,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 35.0,
+"y": 83.750015258789062,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 35.0,
+"y": 83.750015258789062,
+"z": 0,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.122173049,
+"kY": -0.122173049,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -71.832099914550781,
+"y": 12.216407775878906,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": -0.820304751,
+"kY": 0.820304751,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -71.832099914550781,
+"y": 12.216407775878906,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": -0.820304751,
+"kY": 0.820304751,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -71.832099914550781,
+"y": 12.216407775878906,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": -0.820304751,
+"kY": 0.820304751,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -71.832099914550781,
+"y": 12.216407775878906,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": -0.820304751,
+"kY": 0.820304751,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -71.832099914550781,
+"y": 12.216407775878906,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": -0.820304751,
+"kY": 0.820304751,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -71.832099914550781,
+"y": 12.216407775878906,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": -0.820304751,
+"kY": 0.820304751,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -71.832099914550781,
+"y": 12.216407775878906,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": -0.820304751,
+"kY": 0.820304751,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -71.832099914550781,
+"y": 12.216407775878906,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": -0.820304751,
+"kY": 0.820304751,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -71.832099914550781,
+"y": 12.216407775878906,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": -0.820304751,
+"kY": 0.820304751,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -71.832099914550781,
+"y": 12.216407775878906,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": -0.820304751,
+"kY": 0.820304751,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -71.832099914550781,
+"y": 12.216407775878906,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": -0.820304751,
+"kY": 0.820304751,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -71.832099914550781,
+"y": 12.216407775878906,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": -0.820304751,
+"kY": 0.820304751,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 1.5,
+"y": -3.5,
+"z": -7,
+"cX": 1.90000021,
+"cY": 1.0,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 1.5,
+"y": -3.5,
+"z": -7,
+"cX": 1.90000021,
+"cY": 1.0,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 1.5,
+"y": -3.5,
+"z": -7,
+"cX": 1.90000021,
+"cY": 1.0,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 15.0,
+"y": 18.0,
+"z": -7,
+"cX": 2.3,
+"cY": 1.50000012,
+"kX": 0.6457718,
+"kY": -0.6457718,
+"fi": 11,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 20.799999237060547,
+"y": 29.299999237060547,
+"z": -7,
+"cX": 2.0,
+"cY": 1.5,
+"kX": 0.7958701,
+"kY": -0.7958701,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 25.5,
+"y": 66.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 1.39626336,
+"kY": -1.39626336,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 25.5,
+"y": 66.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 1.39626336,
+"kY": -1.39626336,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 14.777765274047852,
+"y": -0.22222137451171875,
+"z": -6,
+"cX": 1.80000019,
+"cY": 1.0,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 14.777765274047852,
+"y": -0.22222137451171875,
+"z": -6,
+"cX": 1.80000019,
+"cY": 1.0,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 1,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 41.111103057861328,
+"y": 8.8888931274414062,
+"z": -6,
+"cX": 2.39999986,
+"cY": 1.50000012,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 7,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 52.444435119628906,
+"y": 64.444450378417969,
+"z": -6,
+"cX": 1.28,
+"cY": 1.1,
+"kX": 0.9250245,
+"kY": -0.9250245,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 52.444435119628906,
+"y": 64.444450378417969,
+"z": -6,
+"cX": 1.28,
+"cY": 1.1,
+"kX": 0.9250245,
+"kY": -0.9250245,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 52.444435119628906,
+"y": 64.444450378417969,
+"z": -6,
+"cX": 1.28,
+"cY": 1.1,
+"kX": 0.9250245,
+"kY": -0.9250245,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 9.0,
+"y": 23.5,
+"z": -4,
+"cX": 2.0,
+"cY": 2.89999962,
+"kX": -0.4537856,
+"kY": 0.4537856,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 9.0,
+"y": 23.5,
+"z": -4,
+"cX": 2.0,
+"cY": 2.89999962,
+"kX": -0.4537856,
+"kY": 0.4537856,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 9.0,
+"y": 23.5,
+"z": -4,
+"cX": 2.0,
+"cY": 2.89999962,
+"kX": -0.4537856,
+"kY": 0.4537856,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 9.0,
+"y": 23.5,
+"z": -4,
+"cX": 2.0,
+"cY": 2.89999962,
+"kX": -0.4537856,
+"kY": 0.4537856,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 9.0,
+"y": 23.5,
+"z": -4,
+"cX": 2.0,
+"cY": 2.89999962,
+"kX": -0.4537856,
+"kY": 0.4537856,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 9.0,
+"y": 23.5,
+"z": -4,
+"cX": 2.0,
+"cY": 2.89999962,
+"kX": -0.4537856,
+"kY": 0.4537856,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 9.0,
+"y": 23.5,
+"z": -4,
+"cX": 2.0,
+"cY": 2.89999962,
+"kX": -0.4537856,
+"kY": 0.4537856,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 9.0,
+"y": 23.5,
+"z": -4,
+"cX": 2.0,
+"cY": 2.89999962,
+"kX": -0.4537856,
+"kY": 0.4537856,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 9.0,
+"y": 23.5,
+"z": -4,
+"cX": 2.0,
+"cY": 2.89999962,
+"kX": -0.4537856,
+"kY": 0.4537856,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 9.0,
+"y": 23.5,
+"z": -4,
+"cX": 2.0,
+"cY": 2.89999962,
+"kX": -0.4537856,
+"kY": 0.4537856,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 9.0,
+"y": 23.5,
+"z": -4,
+"cX": 2.0,
+"cY": 2.89999962,
+"kX": -0.4537856,
+"kY": 0.4537856,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 9.0,
+"y": 23.5,
+"z": -4,
+"cX": 2.0,
+"cY": 2.89999962,
+"kX": -0.4537856,
+"kY": 0.4537856,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 10.833332061767578,
+"y": 14.5,
+"z": 0,
+"cX": 1.5999999,
+"cY": 2.0,
+"kX": -0.436332315,
+"kY": 0.436332315,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 10.833332061767578,
+"y": 14.5,
+"z": 0,
+"cX": 1.5999999,
+"cY": 2.0,
+"kX": -0.436332315,
+"kY": 0.436332315,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 10.833332061767578,
+"y": 14.5,
+"z": 0,
+"cX": 1.5999999,
+"cY": 2.0,
+"kX": -0.436332315,
+"kY": 0.436332315,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 10.833332061767578,
+"y": 14.5,
+"z": 0,
+"cX": 1.5999999,
+"cY": 2.0,
+"kX": -0.436332315,
+"kY": 0.436332315,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 10.833332061767578,
+"y": 14.5,
+"z": 0,
+"cX": 1.5999999,
+"cY": 2.0,
+"kX": -0.436332315,
+"kY": 0.436332315,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 10.833332061767578,
+"y": 14.5,
+"z": 0,
+"cX": 1.5999999,
+"cY": 2.0,
+"kX": -0.436332315,
+"kY": 0.436332315,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 10.833332061767578,
+"y": 14.5,
+"z": 0,
+"cX": 1.5999999,
+"cY": 2.0,
+"kX": -0.436332315,
+"kY": 0.436332315,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 10.833332061767578,
+"y": 14.5,
+"z": 0,
+"cX": 1.5999999,
+"cY": 2.0,
+"kX": -0.436332315,
+"kY": 0.436332315,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 10.833332061767578,
+"y": 14.5,
+"z": 0,
+"cX": 1.5999999,
+"cY": 2.0,
+"kX": -0.436332315,
+"kY": 0.436332315,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 10.833332061767578,
+"y": 14.5,
+"z": 0,
+"cX": 1.5999999,
+"cY": 2.0,
+"kX": -0.436332315,
+"kY": 0.436332315,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 10.833332061767578,
+"y": 14.5,
+"z": 0,
+"cX": 1.5999999,
+"cY": 2.0,
+"kX": -0.436332315,
+"kY": 0.436332315,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 10.833332061767578,
+"y": 14.5,
+"z": 0,
+"cX": 1.5999999,
+"cY": 2.0,
+"kX": -0.436332315,
+"kY": 0.436332315,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+},
+{
+"name": "Animation11",
+"dr": 19,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Scene_guozhan_leida05_7_6_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 82.608695983886719,
+"y": 71.739128112792969,
+"z": -7,
+"cX": 0.8,
+"cY": 0.8,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 82.608695983886719,
+"y": 71.739128112792969,
+"z": -7,
+"cX": 0.8,
+"cY": 0.8,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": -7,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": -7,
+"cX": 1.5,
+"cY": 1.5,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 24.34782600402832,
+"y": 36.5217399597168,
+"z": 0,
+"cX": 1.5,
+"cY": 1.5,
+"kX": -1.23918378,
+"kY": 1.23918378,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 82.608695983886719,
+"y": 71.739128112792969,
+"z": -7,
+"cX": 0.8,
+"cY": 0.8,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 82.608695983886719,
+"y": 71.739128112792969,
+"z": -7,
+"cX": 0.8,
+"cY": 0.8,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 55.561237335205078,
+"y": 34.642864227294922,
+"z": -6,
+"cX": 1.2571429,
+"cY": 1.12857139,
+"kX": -0.531078935,
+"kY": 0.531078935,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 78.214302062988281,
+"y": 50.714290618896484,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 3,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 78.214302062988281,
+"y": 50.714290618896484,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -2.5000004768371582,
+"y": 2.142857551574707,
+"z": -6,
+"cX": 1.80000019,
+"cY": 1.0,
+"kX": -2.495822,
+"kY": 2.495822,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -2.5000004768371582,
+"y": 2.142857551574707,
+"z": -6,
+"cX": 1.80000019,
+"cY": 1.0,
+"kX": -2.495822,
+"kY": 2.495822,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -2.5000004768371582,
+"y": 2.142857551574707,
+"z": -6,
+"cX": 1.80000019,
+"cY": 1.0,
+"kX": -2.495822,
+"kY": 2.495822,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 25.357149124145508,
+"y": 13.2142915725708,
+"z": -6,
+"cX": 1.60000014,
+"cY": 1.30000007,
+"kX": -1.23918426,
+"kY": 1.23918426,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 48.010215759277344,
+"y": 29.285720825195312,
+"z": -6,
+"cX": 1.34285724,
+"cY": 1.17142856,
+"kX": -0.708105266,
+"kY": 0.708105266,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 107,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 42.0,
+"y": 72.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.30000007,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 1,
+"x": 42.0,
+"y": 72.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.30000007,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 2,
+"x": 42.0,
+"y": 72.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.30000007,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 3,
+"x": 42.0,
+"y": 72.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.30000007,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 4,
+"x": 42.0,
+"y": 72.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.30000007,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 4,
+"x": 42.0,
+"y": 72.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.30000007,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 42.0,
+"y": 72.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.30000007,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 1,
+"x": 42.0,
+"y": 72.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.30000007,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 2,
+"x": 42.0,
+"y": 72.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.30000007,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 3,
+"x": 42.0,
+"y": 72.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.30000007,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 4,
+"x": 42.0,
+"y": 72.0,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.30000007,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 4,
+"x": 42.080764770507812,
+"y": 72.732803344726562,
+"z": -3,
+"cX": 0.5999999,
+"cY": 1.30000007,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 200,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -2.0,
+"y": 34.0,
+"z": -3,
+"cX": 2.0,
+"cY": 2.69999933,
+"kX": 0.296705961,
+"kY": -0.296705961,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -2.0,
+"y": 34.0,
+"z": -3,
+"cX": 2.0,
+"cY": 2.69999933,
+"kX": 0.296705961,
+"kY": -0.296705961,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -2.0,
+"y": 34.0,
+"z": -3,
+"cX": 2.0,
+"cY": 2.69999933,
+"kX": 0.296705961,
+"kY": -0.296705961,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -2.0,
+"y": 34.0,
+"z": -3,
+"cX": 2.0,
+"cY": 2.69999933,
+"kX": 0.296705961,
+"kY": -0.296705961,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -2.0,
+"y": 34.0,
+"z": -3,
+"cX": 2.0,
+"cY": 2.69999933,
+"kX": 0.296705961,
+"kY": -0.296705961,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -2.0,
+"y": 34.0,
+"z": -3,
+"cX": 2.0,
+"cY": 2.69999933,
+"kX": 0.296705961,
+"kY": -0.296705961,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -2.0,
+"y": 34.0,
+"z": -3,
+"cX": 2.0,
+"cY": 2.69999933,
+"kX": 0.296705961,
+"kY": -0.296705961,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -2.0,
+"y": 34.0,
+"z": -3,
+"cX": 2.0,
+"cY": 2.69999933,
+"kX": 0.296705961,
+"kY": -0.296705961,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -2.0,
+"y": 34.0,
+"z": -3,
+"cX": 2.0,
+"cY": 2.69999933,
+"kX": 0.296705961,
+"kY": -0.296705961,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -2.0,
+"y": 34.0,
+"z": -3,
+"cX": 2.0,
+"cY": 2.69999933,
+"kX": 0.296705961,
+"kY": -0.296705961,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -2.0,
+"y": 34.0,
+"z": -3,
+"cX": 2.0,
+"cY": 2.69999933,
+"kX": 0.296705961,
+"kY": -0.296705961,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -2.4521846771240234,
+"y": 31.860862731933594,
+"z": -3,
+"cX": 2.0,
+"cY": 2.69999933,
+"kX": 0.296705961,
+"kY": -0.296705961,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_3",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 34.0,
+"y": 67.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 148,
+"b": 155
+}
+},
+{
+"dI": 1,
+"x": 34.0,
+"y": 67.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 148,
+"b": 155
+}
+},
+{
+"dI": 2,
+"x": 34.0,
+"y": 67.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 148,
+"b": 155
+}
+},
+{
+"dI": 3,
+"x": 34.0,
+"y": 67.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 148,
+"b": 155
+}
+},
+{
+"dI": 4,
+"x": 34.0,
+"y": 67.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 148,
+"b": 155
+}
+},
+{
+"dI": 4,
+"x": 34.0,
+"y": 67.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 148,
+"b": 155
+}
+},
+{
+"dI": 0,
+"x": 34.0,
+"y": 67.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 148,
+"b": 155
+}
+},
+{
+"dI": 1,
+"x": 34.0,
+"y": 67.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 148,
+"b": 155
+}
+},
+{
+"dI": 2,
+"x": 34.0,
+"y": 67.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 148,
+"b": 155
+}
+},
+{
+"dI": 3,
+"x": 34.0,
+"y": 67.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 148,
+"b": 155
+}
+},
+{
+"dI": 4,
+"x": 34.0,
+"y": 67.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 148,
+"b": 155
+}
+},
+{
+"dI": 4,
+"x": 34.002864837646484,
+"y": 67.635345458984375,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.209439516,
+"kY": -0.209439516,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 252,
+"g": 148,
+"b": 155
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -10.500001907348633,
+"y": 23.0,
+"z": 0,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -10.500001907348633,
+"y": 23.0,
+"z": 0,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -10.500001907348633,
+"y": 23.0,
+"z": 0,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -10.500001907348633,
+"y": 23.0,
+"z": 0,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -10.500001907348633,
+"y": 23.0,
+"z": 0,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -10.500001907348633,
+"y": 23.0,
+"z": 0,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -10.500001907348633,
+"y": 23.0,
+"z": 0,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -10.500001907348633,
+"y": 23.0,
+"z": 0,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -10.500001907348633,
+"y": 23.0,
+"z": 0,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -10.500001907348633,
+"y": 23.0,
+"z": 0,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -10.500001907348633,
+"y": 23.0,
+"z": 0,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -10.500001907348633,
+"y": 23.0,
+"z": 0,
+"cX": 1.8,
+"cY": 1.8,
+"kX": 0.34906584,
+"kY": -0.34906584,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+},
+{
+"name": "Animation12",
+"dr": 19,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Scene_guozhan_leida05_5",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 32.758628845214844,
+"y": 42.068977355957031,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 32.758628845214844,
+"y": 42.068977355957031,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 32.758628845214844,
+"y": 42.068977355957031,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 32.758628845214844,
+"y": 42.068977355957031,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 32.758628845214844,
+"y": 42.068977355957031,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 32.758628845214844,
+"y": 42.068977355957031,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 32.758628845214844,
+"y": 42.068977355957031,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 32.758628845214844,
+"y": 42.068977355957031,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 32.758628845214844,
+"y": 42.068977355957031,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 32.758628845214844,
+"y": 42.068977355957031,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 32.758628845214844,
+"y": 42.068977355957031,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 32.758628845214844,
+"y": 42.068977355957031,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -33.475864410400391,
+"y": -3.9034492969512939,
+"z": 0,
+"cX": 0.35,
+"cY": 0.3,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -33.475864410400391,
+"y": -3.9034492969512939,
+"z": 0,
+"cX": 0.35,
+"cY": 0.3,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -33.475864410400391,
+"y": -3.9034492969512939,
+"z": 0,
+"cX": 0.35,
+"cY": 0.3,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -33.475864410400391,
+"y": -3.9034492969512939,
+"z": 0,
+"cX": 0.35,
+"cY": 0.3,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -33.475864410400391,
+"y": -3.9034492969512939,
+"z": 0,
+"cX": 0.35,
+"cY": 0.3,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -33.475864410400391,
+"y": -3.9034492969512939,
+"z": 0,
+"cX": 0.35,
+"cY": 0.3,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -33.475864410400391,
+"y": -3.9034492969512939,
+"z": 0,
+"cX": 0.35,
+"cY": 0.3,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -33.475864410400391,
+"y": -3.9034492969512939,
+"z": 0,
+"cX": 0.35,
+"cY": 0.3,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -33.475864410400391,
+"y": -3.9034492969512939,
+"z": 0,
+"cX": 0.35,
+"cY": 0.3,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -33.475864410400391,
+"y": -3.9034492969512939,
+"z": 0,
+"cX": 0.35,
+"cY": 0.3,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -33.475864410400391,
+"y": -3.9034492969512939,
+"z": 0,
+"cX": 0.35,
+"cY": 0.3,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -33.475864410400391,
+"y": -3.9034492969512939,
+"z": 0,
+"cX": 0.35,
+"cY": 0.3,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6_2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -31.777797698974609,
+"y": -6.0000042915344238,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -31.777797698974609,
+"y": -6.0000042915344238,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 3,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -31.777797698974609,
+"y": -6.0000042915344238,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -25.333351135253906,
+"y": 5.5000014305114746,
+"z": 0,
+"cX": 0.4,
+"cY": 0.4,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -19.833349227905273,
+"y": 21.944456100463867,
+"z": 0,
+"cX": 0.2,
+"cY": 0.2,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -19.833349227905273,
+"y": 21.944456100463867,
+"z": 0,
+"cX": 0.2,
+"cY": 0.2,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 17,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -19.833349227905273,
+"y": 21.944456100463867,
+"z": 0,
+"cX": 0.2,
+"cY": 0.2,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 26.969703674316406,
+"y": -0.30303025245666504,
+"z": -6,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 44.242435455322266,
+"y": 18.484851837158203,
+"z": -6,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.87266463,
+"kY": -0.87266463,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 71.515174865722656,
+"y": 38.181827545166016,
+"z": -6,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 1.74532926,
+"kY": -1.74532926,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 71.515174865722656,
+"y": 38.181827545166016,
+"z": -6,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 1.74532926,
+"kY": -1.74532926,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 26.969703674316406,
+"y": -0.30303025245666504,
+"z": -6,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 26.969703674316406,
+"y": -0.30303025245666504,
+"z": -6,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 40.666679382324219,
+"y": 19.170547485351562,
+"z": -5,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.5235988,
+"kY": -0.5235988,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 45.820613861083984,
+"y": 26.949066162109375,
+"z": -5,
+"cX": 0.8285714,
+"cY": 0.8285714,
+"kX": 0.673198462,
+"kY": -0.673198462,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 48.397579193115234,
+"y": 30.838325500488281,
+"z": -5,
+"cX": 1.04285717,
+"cY": 0.7428571,
+"kX": 0.7479983,
+"kY": -0.7479983,
+"fi": 3,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 58.705448150634766,
+"y": 46.395362854003906,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 7,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 58.705448150634766,
+"y": 46.395362854003906,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 58.705448150634766,
+"y": 46.395362854003906,
+"z": 0,
+"cX": 0.399999917,
+"cY": 0.399999917,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 24.883731842041016,
+"y": 0.93023252487182617,
+"z": -5,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 24.883731842041016,
+"y": 0.93023252487182617,
+"z": -5,
+"cX": 0.5999999,
+"cY": 0.5999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 15,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 37.510089874267578,
+"y": 15.522483825683594,
+"z": -5,
+"cX": 0.919999957,
+"cY": 0.919999957,
+"kX": 0.418879032,
+"kY": -0.418879032,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 26.428585052490234,
+"y": 11.666672706604004,
+"z": -2,
+"cX": 0.700000048,
+"cY": 2.00000024,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 26.428585052490234,
+"y": 11.666672706604004,
+"z": -2,
+"cX": 0.700000048,
+"cY": 2.00000024,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 26.428585052490234,
+"y": 11.666672706604004,
+"z": -2,
+"cX": 0.700000048,
+"cY": 2.00000024,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 26.428585052490234,
+"y": 11.666672706604004,
+"z": -2,
+"cX": 0.700000048,
+"cY": 2.00000024,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 26.428585052490234,
+"y": 11.666672706604004,
+"z": -2,
+"cX": 0.700000048,
+"cY": 2.00000024,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 26.428585052490234,
+"y": 11.666672706604004,
+"z": -2,
+"cX": 0.700000048,
+"cY": 2.00000024,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 26.428585052490234,
+"y": 11.666672706604004,
+"z": -2,
+"cX": 0.700000048,
+"cY": 2.00000024,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 26.428585052490234,
+"y": 11.666672706604004,
+"z": -2,
+"cX": 0.700000048,
+"cY": 2.00000024,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 26.428585052490234,
+"y": 11.666672706604004,
+"z": -2,
+"cX": 0.700000048,
+"cY": 2.00000024,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 26.428585052490234,
+"y": 11.666672706604004,
+"z": -2,
+"cX": 0.700000048,
+"cY": 2.00000024,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 26.428585052490234,
+"y": 11.666672706604004,
+"z": -2,
+"cX": 0.700000048,
+"cY": 2.00000024,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 26.428585052490234,
+"y": 11.666672706604004,
+"z": -2,
+"cX": 0.700000048,
+"cY": 2.00000024,
+"kX": 0.191986218,
+"kY": -0.191986218,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_3",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 22.132831573486328,
+"y": 3.8952732086181641,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 1,
+"x": 22.132831573486328,
+"y": 3.8952732086181641,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 2,
+"x": 22.132831573486328,
+"y": 3.8952732086181641,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 3,
+"x": 22.132831573486328,
+"y": 3.8952732086181641,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 4,
+"x": 22.132831573486328,
+"y": 3.8952732086181641,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 4,
+"x": 22.132831573486328,
+"y": 3.8952732086181641,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 22.132831573486328,
+"y": 3.8952732086181641,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 1,
+"x": 22.132831573486328,
+"y": 3.8952732086181641,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 2,
+"x": 22.132831573486328,
+"y": 3.8952732086181641,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 3,
+"x": 22.132831573486328,
+"y": 3.8952732086181641,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 4,
+"x": 22.132831573486328,
+"y": 3.8952732086181641,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 4,
+"x": 22.132831573486328,
+"y": 3.8952732086181641,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+}
+]
+},
+{
+"name": "Animation13",
+"dr": 19,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Scene_guozhan_leida05_5",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 30.848686218261719,
+"y": 22.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 30.848686218261719,
+"y": 22.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 30.848686218261719,
+"y": 22.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 30.848686218261719,
+"y": 22.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 30.848686218261719,
+"y": 22.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 30.848686218261719,
+"y": 22.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 30.848686218261719,
+"y": 22.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 30.848686218261719,
+"y": 22.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 30.848686218261719,
+"y": 22.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 30.848686218261719,
+"y": 22.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 30.848686218261719,
+"y": 22.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 30.848686218261719,
+"y": 22.0,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.331612557,
+"kY": -0.331612557,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_2",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -35.536308288574219,
+"y": 4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -35.536308288574219,
+"y": 4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -35.536308288574219,
+"y": 4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -35.536308288574219,
+"y": 4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -35.536308288574219,
+"y": 4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -35.536308288574219,
+"y": 4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -35.536308288574219,
+"y": 4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -35.536308288574219,
+"y": 4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -35.536308288574219,
+"y": 4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -35.536308288574219,
+"y": 4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -35.536308288574219,
+"y": 4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -35.536308288574219,
+"y": 4.0,
+"z": 0,
+"cX": 0.799999952,
+"cY": 0.9,
+"kX": 0.05235988,
+"kY": -0.05235988,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 17.302829742431641,
+"y": 38.100372314453125,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -41.030521392822266,
+"y": -3.0107533931732178,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -41.030521392822266,
+"y": -3.0107533931732178,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 0.436332315,
+"kY": -0.436332315,
+"fi": 7,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -19.086071014404297,
+"y": 21.155921936035156,
+"z": 0,
+"cX": 1.2,
+"cY": 0.799999952,
+"kX": 0.5934119,
+"kY": -0.5934119,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 17.302829742431641,
+"y": 38.100372314453125,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 17.302829742431641,
+"y": 38.100372314453125,
+"z": 0,
+"cX": 0.6999999,
+"cY": 0.6999999,
+"kX": 1.04719758,
+"kY": -1.04719758,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_6",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -2.9714303016662598,
+"y": 22.514291763305664,
+"z": 0,
+"cX": 1.62000012,
+"cY": 1.14,
+"kX": 0.9913471,
+"kY": -0.9913471,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 130,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 19.428577423095703,
+"y": 49.714298248291016,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 2.09439516,
+"kY": -2.09439516,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 50,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": 19.428577423095703,
+"y": 49.714298248291016,
+"z": 0,
+"cX": 0.5,
+"cY": 0.5,
+"kX": 2.09439516,
+"kY": -2.09439516,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -35.71429443359375,
+"y": -20.28571891784668,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -35.71429443359375,
+"y": -20.28571891784668,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 0,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -35.71429443359375,
+"y": -20.28571891784668,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 13,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -8.5714321136474609,
+"y": 15.714289665222168,
+"z": 0,
+"cX": 1.9000001,
+"cY": 1.3,
+"kX": 0.715585,
+"kY": -0.715585,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 150,
+"r": 255,
+"g": 255,
+"b": 255
+}
+},
+{
+"dI": 0,
+"x": -2.9714303016662598,
+"y": 22.514291763305664,
+"z": 0,
+"cX": 1.62000012,
+"cY": 1.14,
+"kX": 0.9913471,
+"kY": -0.9913471,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 130,
+"r": 255,
+"g": 255,
+"b": 255
+}
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7_1",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 32.277763366699219,
+"y": 21.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.8000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 32.277763366699219,
+"y": 21.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.8000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 32.277763366699219,
+"y": 21.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.8000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 32.277763366699219,
+"y": 21.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.8000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 32.277763366699219,
+"y": 21.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.8000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 32.277763366699219,
+"y": 21.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.8000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 32.277763366699219,
+"y": 21.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.8000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": 32.277763366699219,
+"y": 21.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.8000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": 32.277763366699219,
+"y": 21.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.8000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": 32.277763366699219,
+"y": 21.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.8000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 32.277763366699219,
+"y": 21.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.8000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": 32.277763366699219,
+"y": 21.0,
+"z": 0,
+"cX": 0.5,
+"cY": 0.8000001,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_7",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": -32.444839477539062,
+"y": 7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.0,
+"kX": 0.157079637,
+"kY": -0.157079637,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -32.444839477539062,
+"y": 7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.0,
+"kX": 0.157079637,
+"kY": -0.157079637,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -32.444839477539062,
+"y": 7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.0,
+"kX": 0.157079637,
+"kY": -0.157079637,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -32.444839477539062,
+"y": 7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.0,
+"kX": 0.157079637,
+"kY": -0.157079637,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -32.444839477539062,
+"y": 7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.0,
+"kX": 0.157079637,
+"kY": -0.157079637,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -32.444839477539062,
+"y": 7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.0,
+"kX": 0.157079637,
+"kY": -0.157079637,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": -32.444839477539062,
+"y": 7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.0,
+"kX": 0.157079637,
+"kY": -0.157079637,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 1,
+"x": -32.444839477539062,
+"y": 7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.0,
+"kX": 0.157079637,
+"kY": -0.157079637,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 2,
+"x": -32.444839477539062,
+"y": 7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.0,
+"kX": 0.157079637,
+"kY": -0.157079637,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 3,
+"x": -32.444839477539062,
+"y": 7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.0,
+"kX": 0.157079637,
+"kY": -0.157079637,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -32.444839477539062,
+"y": 7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.0,
+"kX": 0.157079637,
+"kY": -0.157079637,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 4,
+"x": -32.444839477539062,
+"y": 7.0,
+"z": 0,
+"cX": 1.0,
+"cY": 2.0,
+"kX": 0.157079637,
+"kY": -0.157079637,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Scene_guozhan_leida05_3",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 6.9172167778015137,
+"y": 69.0,
+"z": 0,
+"cX": 0.3,
+"cY": 0.3,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 178,
+"g": 84,
+"b": 89
+}
+},
+{
+"dI": 1,
+"x": 6.9172167778015137,
+"y": 69.0,
+"z": 0,
+"cX": 0.3,
+"cY": 0.3,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 2,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 178,
+"g": 84,
+"b": 89
+}
+},
+{
+"dI": 2,
+"x": 6.9172167778015137,
+"y": 69.0,
+"z": 0,
+"cX": 0.3,
+"cY": 0.3,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 4,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 178,
+"g": 84,
+"b": 89
+}
+},
+{
+"dI": 3,
+"x": 6.9172167778015137,
+"y": 69.0,
+"z": 0,
+"cX": 0.3,
+"cY": 0.3,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 6,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 178,
+"g": 84,
+"b": 89
+}
+},
+{
+"dI": 4,
+"x": 6.9172167778015137,
+"y": 69.0,
+"z": 0,
+"cX": 0.3,
+"cY": 0.3,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 178,
+"g": 84,
+"b": 89
+}
+},
+{
+"dI": 4,
+"x": 6.9172167778015137,
+"y": 69.0,
+"z": 0,
+"cX": 0.3,
+"cY": 0.3,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 9,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 178,
+"g": 84,
+"b": 89
+}
+},
+{
+"dI": 0,
+"x": 6.9172167778015137,
+"y": 69.0,
+"z": 0,
+"cX": 0.3,
+"cY": 0.3,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 10,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 178,
+"g": 84,
+"b": 89
+}
+},
+{
+"dI": 1,
+"x": 6.9172167778015137,
+"y": 69.0,
+"z": 0,
+"cX": 0.3,
+"cY": 0.3,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 12,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 178,
+"g": 84,
+"b": 89
+}
+},
+{
+"dI": 2,
+"x": 6.9172167778015137,
+"y": 69.0,
+"z": 0,
+"cX": 0.3,
+"cY": 0.3,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 14,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 178,
+"g": 84,
+"b": 89
+}
+},
+{
+"dI": 3,
+"x": 6.9172167778015137,
+"y": 69.0,
+"z": 0,
+"cX": 0.3,
+"cY": 0.3,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 178,
+"g": 84,
+"b": 89
+}
+},
+{
+"dI": 4,
+"x": 6.9172167778015137,
+"y": 69.0,
+"z": 0,
+"cX": 0.3,
+"cY": 0.3,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 18,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 178,
+"g": 84,
+"b": 89
+}
+},
+{
+"dI": 4,
+"x": 6.9172167778015137,
+"y": 69.0,
+"z": 0,
+"cX": 0.3,
+"cY": 0.3,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 19,
+"twE": 0,
+"tweenFrame": true,
+"color": {
+"a": 255,
+"r": 178,
+"g": 84,
+"b": 89
+}
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "Scene_guozhan_leida01_01",
+"width": 136.0,
+"height": 134.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida01_02",
+"width": 113.0,
+"height": 44.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida01_03",
+"width": 122.0,
+"height": 119.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida02",
+"width": 55.0,
+"height": 60.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida04",
+"width": 55.0,
+"height": 107.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida03_1",
+"width": 103.0,
+"height": 101.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida03_2",
+"width": 103.0,
+"height": 101.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida03_3",
+"width": 103.0,
+"height": 101.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida03_4",
+"width": 103.0,
+"height": 101.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida03_5",
+"width": 103.0,
+"height": 101.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida03_6",
+"width": 103.0,
+"height": 101.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_1/Scene_guozhan_leida05_1_1",
+"width": 70.0,
+"height": 44.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_3/Scene_guozhan_leida05_3_1",
+"width": 60.0,
+"height": 90.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_1",
+"width": 80.0,
+"height": 46.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_6",
+"width": 26.0,
+"height": 27.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_1/Scene_guozhan_leida05_1_2",
+"width": 70.0,
+"height": 44.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_1/Scene_guozhan_leida05_1_3",
+"width": 70.0,
+"height": 44.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_1/Scene_guozhan_leida05_1_4",
+"width": 70.0,
+"height": 44.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_1/Scene_guozhan_leida05_1_5",
+"width": 70.0,
+"height": 44.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_3/Scene_guozhan_leida05_3_2",
+"width": 60.0,
+"height": 90.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_3/Scene_guozhan_leida05_3_3",
+"width": 0.0,
+"height": 0.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_3/Scene_guozhan_leida05_3_4",
+"width": 60.0,
+"height": 90.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_3/Scene_guozhan_leida05_3_5",
+"width": 60.0,
+"height": 90.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_2",
+"width": 80.0,
+"height": 46.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_3",
+"width": 80.0,
+"height": 46.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_4",
+"width": 80.0,
+"height": 46.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_7/Scene_guozhan_leida05_7_5",
+"width": 80.0,
+"height": 46.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_4/Scene_guozhan_leida05_4_1",
+"width": 80.0,
+"height": 66.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_4/Scene_guozhan_leida05_4_2",
+"width": 0.0,
+"height": 0.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_4/Scene_guozhan_leida05_4_3",
+"width": 80.0,
+"height": 66.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_4/Scene_guozhan_leida05_4_4",
+"width": 0.0,
+"height": 0.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_4/Scene_guozhan_leida05_4_5",
+"width": 80.0,
+"height": 66.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_2/Scene_guozhan_leida05_2_1",
+"width": 63.0,
+"height": 85.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_1",
+"width": 41.0,
+"height": 54.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_2",
+"width": 0.0,
+"height": 0.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_3",
+"width": 41.0,
+"height": 54.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_4",
+"width": 41.0,
+"height": 54.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_5/Scene_guozhan_leida05_5_5",
+"width": 41.0,
+"height": 54.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_2/Scene_guozhan_leida05_2_2",
+"width": 63.0,
+"height": 85.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_2/Scene_guozhan_leida05_2_3",
+"width": 63.0,
+"height": 85.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_2/Scene_guozhan_leida05_2_4",
+"width": 63.0,
+"height": 85.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "Scene_guozhan_leida05/Scene_guozhan_leida05_2/Scene_guozhan_leida05_2_5",
+"width": 63.0,
+"height": 85.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"Scene_guozhan_leida010.plist",
+"Scene_guozhan_leida011.plist"
+],
+"config_png_path": [
+"Scene_guozhan_leida010.png",
+"Scene_guozhan_leida011.png"
+]
+}

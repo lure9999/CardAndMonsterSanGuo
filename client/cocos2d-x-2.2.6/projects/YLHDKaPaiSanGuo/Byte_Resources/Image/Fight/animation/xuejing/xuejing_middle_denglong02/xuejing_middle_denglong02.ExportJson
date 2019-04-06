@@ -1,0 +1,323 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "xuejing_middle_denglong02",
+"bone_data": [
+{
+"name": "Layer11",
+"parent": "",
+"dI": 0,
+"x": 0.73029631376266479,
+"y": -0.14439503848552704,
+"z": 2,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 1.55592752,
+"kY": -1.55592752,
+"arrow_x": 67.2574234008789,
+"arrow_y": -5.0881017159554176E-06,
+"effectbyskeleton": true,
+"display_data": [
+{
+"name": "xuejing_middle_denglong02_01.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 38.775032,
+"y": -0.7735674,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -1.5559274,
+"kY": 1.55592608
+}
+]
+}
+]
+},
+{
+"name": "Layer12",
+"parent": "Layer11",
+"dI": 0,
+"x": 75.763916015625,
+"y": 0.373563289642334,
+"z": 1,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.0244809389,
+"kY": 0.0244809389,
+"arrow_x": 31.774587631225586,
+"arrow_y": -1.1153806553920731E-05,
+"effectbyskeleton": true,
+"display_data": [
+{
+"name": "xuejing_middle_denglong02_02.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 16.9235229,
+"y": 1.45242882,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -1.53144658,
+"kY": 1.531447
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "xuejing_middle_denglong02",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 57,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "Layer11",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.160570264,
+"kY": -0.160570264,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.279252678,
+"kY": -0.279252678,
+"fi": 3,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.383972436,
+"kY": -0.383972436,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.314159274,
+"kY": -0.314159274,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.279252678,
+"kY": 0.279252678,
+"fi": 31,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.383972436,
+"kY": 0.383972436,
+"fi": 36,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.314159274,
+"kY": 0.314159274,
+"fi": 44,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.160570264,
+"kY": -0.160570264,
+"fi": 56,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "Layer12",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.209439516,
+"kY": 0.5061455,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.209439516,
+"kY": 0.5061455,
+"fi": 8,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0483322144,
+"kY": -0.149024248,
+"fi": 16,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.209439516,
+"kY": -0.558505356,
+"fi": 21,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.209439516,
+"kY": -0.558505356,
+"fi": 36,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.209439516,
+"kY": 0.5061455,
+"fi": 49,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.209439516,
+"kY": 0.5061455,
+"fi": 56,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "xuejing_middle_denglong02_01",
+"width": 37.0,
+"height": 79.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "xuejing_middle_denglong02_02",
+"width": 15.0,
+"height": 38.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"xuejing_middle_denglong020.plist"
+],
+"config_png_path": [
+"xuejing_middle_denglong020.png"
+]
+}

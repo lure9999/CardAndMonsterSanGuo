@@ -1,0 +1,472 @@
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function '__index'
+	[string ".\Script/Main/Item/ItemListLayer.lua"]:126: in function 'loadRedPoint'
+	[string ".\Script/Main/Item/ItemListLayer.lua"]:139: in function 'ShowGoods'
+	[string ".\Script/Main/Item/ItemListLayer.lua"]:365: in function 'InitUI'
+	[string ".\Script/Main/Item/ItemListLayer.lua"]:653: in function 'CreateItemListLayer'
+	[string ".\Script/Main/MainBtnLayer.lua"]:282: in function 'm_funSuccessCallBack'
+	[string ".\Script/Network/packet/Packet_GetItemList.lua"]:42: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Login/StartLoadingScene.lua"]:107: in function <[string ".\Script/Login/StartLoadingScene.lua"]:106>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function '__index'
+	[string ".\Script/Main/MainBtnLayer.lua"]:99: in function 'SetBagPoint'
+	[string ".\Script/Main/MainScene.lua"]:1694: in function 'createMainUI'
+	[string ".\Script/Login/StartScene.lua"]:114: in function 'changeScene'
+	[string ".\Script/Login/LoginCommon.lua"]:24: in function 'ShowLoading'
+	[string ".\Script/Login/LoginCommon.lua"]:59: in function 'callLoading'
+	[string ".\Script/Login/LoginLogic.lua"]:341: in function 'm_funSuccessCallBack'
+	[string ".\Script/Network/packet/Packet_VIPRewardStatu..."]:31: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Login/StartLoadingScene.lua"]:107: in function <[string ".\Script/Login/StartLoadingScene.lua"]:106>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function '__index'
+	[string ".\Script/Main/MainBtnLayer.lua"]:99: in function 'SetBagPoint'
+	[string ".\Script/Main/MainScene.lua"]:542: in function 'Observer_callBack'
+	[string ".\Script/Common/ObserverManager.lua"]:31: in function 'Update'
+	[string ".\Script/Common/ObserverManager.lua"]:48: in function 'Notify'
+	[string ".\Script/Main/MainScene.lua"]:577: in function 'UpdateNeedLayer'
+	[string ".\Script/Main/MainScene.lua"]:1069: in function <[string ".\Script/Main/MainScene.lua"]:1063>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'removeChildByTag'
+	[string ".\Script/Main/CountryWar/CountryUILayer.lua"]:903: in function 'SetRewardPoint'
+	[string ".\Script/serverDB/server_RewardDB.lua"]:61: in function 'RefreshBtnStatus'
+	[string ".\Script/serverDB/server_RewardDB.lua"]:26: in function 'SetTableBuffer'
+	[string ".\Script/Network/packet/Packet_Reward.lua"]:17: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Login/StartLoadingScene.lua"]:107: in function <[string ".\Script/Login/StartLoadingScene.lua"]:106>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function '__index'
+	[string ".\Script/Main/Dungeon/CompetitionUnderLayer.lua"]:174: in function 'AddImagePlayer'
+	[string ".\Script/Main/Dungeon/CompetitionUnderLayer.lua"]:210: in function 'ShowCopetitionPlayer'
+	[string ".\Script/Main/Dungeon/CompetitionUnderLayer.lua"]:389: in function 'CompetitionUnderInfo'
+	[string ".\Script/Main/Dungeon/CompetitionLayer.lua"]:104: in function 'ShowCompetitionUnder'
+	[string ".\Script/Main/Dungeon/CompetitionLayer.lua"]:126: in function 'InitUI'
+	[string ".\Script/Main/Dungeon/CompetitionLayer.lua"]:159: in function 'CreateCompetitonLayer'
+	[string ".\Script/Main/MainScene.lua"]:1393: in function 'm_funSuccessCallBack'
+	[string ".\Script/Network/packet/Packet_GetCompetition..."]:44: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Login/StartLoadingScene.lua"]:107: in function <[string ".\Script/Login/StartLoadingScene.lua"]:106>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'addChild'
+	[string ".\Script/Main/Chat/ChatShowLayer.lua"]:155: in function 'ShowChatlayer'
+	[string ".\Script/Main/CountryWar/AtkCityScene.lua"]:1551: in function 'CreateAtkCity'
+	[string ".\Script/Main/CountryWar/ClickCityLayer.lua"]:54: in function 'fCallBack'
+	[string ".\Script/Main/CountryWar/ClickCityLogic.lua"]:82: in function 'm_funSuccessCallBack'
+	[string ".\Script/Network/packet/Packet_GetCountryWarI..."]:69: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Main/MainScene.lua"]:1061: in function <[string ".\Script/Main/MainScene.lua"]:1060>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function '__index'
+	[string ".\Script/Main/Dungeon/CompetitionUnderLayer.lua"]:174: in function 'AddImagePlayer'
+	[string ".\Script/Main/Dungeon/CompetitionUnderLayer.lua"]:210: in function 'ShowCopetitionPlayer'
+	[string ".\Script/Main/Dungeon/CompetitionUnderLayer.lua"]:389: in function 'CompetitionUnderInfo'
+	[string ".\Script/Main/Dungeon/CompetitionLayer.lua"]:104: in function 'ShowCompetitionUnder'
+	[string ".\Script/Main/Dungeon/CompetitionLayer.lua"]:126: in function 'InitUI'
+	[string ".\Script/Main/Dungeon/CompetitionLayer.lua"]:159: in function 'CreateCompetitonLayer'
+	[string ".\Script/Main/MainScene.lua"]:1393: in function 'm_funSuccessCallBack'
+	[string ".\Script/Network/packet/Packet_GetCompetition..."]:44: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Main/MainScene.lua"]:1061: in function <[string ".\Script/Main/MainScene.lua"]:1060>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'addChild'
+	[string ".\Script/Main/Corps/CorpsContentLayer.lua"]:606: in function 'initEditbox'
+	[string ".\Script/Main/Corps/CorpsContentLayer.lua"]:1277: in function 'CreateContentLayer'
+	[string ".\Script/Main/Corps/CorpsScene.lua"]:152: in function <[string ".\Script/Main/Corps/CorpsScene.lua"]:143>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function '__index'
+	[string ".\Script/Main/Dungeon/CompetitionUnderLayer.lua"]:174: in function 'AddImagePlayer'
+	[string ".\Script/Main/Dungeon/CompetitionUnderLayer.lua"]:210: in function 'ShowCopetitionPlayer'
+	[string ".\Script/Main/Dungeon/CompetitionUnderLayer.lua"]:389: in function 'CompetitionUnderInfo'
+	[string ".\Script/Main/Dungeon/CompetitionLayer.lua"]:104: in function 'ShowCompetitionUnder'
+	[string ".\Script/Main/Dungeon/CompetitionLayer.lua"]:126: in function 'InitUI'
+	[string ".\Script/Main/Dungeon/CompetitionLayer.lua"]:159: in function 'CreateCompetitonLayer'
+	[string ".\Script/Main/MainScene.lua"]:1393: in function 'm_funSuccessCallBack'
+	[string ".\Script/Network/packet/Packet_GetCompetition..."]:44: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Main/MainScene.lua"]:1061: in function <[string ".\Script/Main/MainScene.lua"]:1060>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function 'printTab'
+	[string ".\Script/Login/StartSceneLogic.lua"]:144: in function 'DealGetFTP'
+	[string ".\Script/Login/StartLoadingScene.lua"]:44: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Login/StartLoadingScene.lua"]:107: in function <[string ".\Script/Login/StartLoadingScene.lua"]:106>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'retain'
+	[string ".\Script/Main/MainScene.lua"]:144: in function 'PushUILayer'
+	[string ".\Script/Main/MainBtnLayer.lua"]:175: in function 'm_funSuccessCallBack'
+	[string ".\Script/Network/packet/Packet_GetMatrix.lua"]:44: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Main/MainScene.lua"]:1061: in function <[string ".\Script/Main/MainScene.lua"]:1060>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'retain'
+	[string ".\Script/Main/MainScene.lua"]:144: in function 'PushUILayer'
+	[string ".\Script/Main/Mall/ShopLayer.lua"]:814: in function 'm_funSuccessCallBack'
+	[string ".\Script/Network/packet/Packet_GetShopList.lua"]:45: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Main/Corps/CorpsScene.lua"]:1397: in function <[string ".\Script/Main/Corps/CorpsScene.lua"]:1396>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'retain'
+	[string ".\Script/Main/MainScene.lua"]:144: in function 'PushUILayer'
+	[string ".\Script/Main/Mall/ShopLayer.lua"]:814: in function 'm_funSuccessCallBack'
+	[string ".\Script/Network/packet/Packet_GetShopList.lua"]:45: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Main/Corps/CorpsScene.lua"]:1397: in function <[string ".\Script/Main/Corps/CorpsScene.lua"]:1396>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function '__newindex'
+	[string ".\Script/serverDB/server_dValueDB.lua"]:11: in function 'SetTableBuffer'
+	[string ".\Script/Network/packet/Packet_UpdateAttr.lua"]:15: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Login/StartLoadingScene.lua"]:107: in function <[string ".\Script/Login/StartLoadingScene.lua"]:106>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function '__newindex'
+	[string ".\Script/serverDB/server_dValueDB.lua"]:11: in function 'SetTableBuffer'
+	[string ".\Script/Network/packet/Packet_UpdateAttr.lua"]:15: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Login/StartLoadingScene.lua"]:107: in function <[string ".\Script/Login/StartLoadingScene.lua"]:106>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function '__newindex'
+	[string ".\Script/serverDB/server_dValueDB.lua"]:11: in function 'SetTableBuffer'
+	[string ".\Script/Network/packet/Packet_UpdateAttr.lua"]:15: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Login/StartLoadingScene.lua"]:107: in function <[string ".\Script/Login/StartLoadingScene.lua"]:106>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'insert'
+	[string ".\Script/serverDB/server_dValueDB.lua"]:57: in function 'Attribute_D_Value'
+	[string ".\Script/serverDB/server_dValueDB.lua"]:26: in function 'SetTableBuffer'
+	[string ".\Script/Network/packet/Packet_UpdateAttr.lua"]:15: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Login/StartLoadingScene.lua"]:107: in function <[string ".\Script/Login/StartLoadingScene.lua"]:106>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function '__index'
+	[string ".\Script/serverDB/server_dValueDB.lua"]:131: in function 'UpdatePopTip'
+	[string ".\Script/serverDB/server_dValueDB.lua"]:115: in function 'JieXi'
+	[string ".\Script/serverDB/server_dValueDB.lua"]:66: in function 'Attribute_D_Value'
+	[string ".\Script/serverDB/server_dValueDB.lua"]:24: in function 'SetTableBuffer'
+	[string ".\Script/Network/packet/Packet_UpdateAttr.lua"]:13: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Main/MainScene.lua"]:1061: in function <[string ".\Script/Main/MainScene.lua"]:1060>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function 'Clicoo'
+	[string ".\Script/serverDB/server_dValueDB.lua"]:134: in function <[string ".\Script/serverDB/server_dValueDB.lua"]:127>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'getChildByTag'
+	[string ".\Script/Main/Corps/CorpsScene.lua"]:1371: in function 'm_fullSuccessCallBack'
+	[string ".\Script/Network/packet/Packet_AniGetPerstige..."]:30: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Main/MainScene.lua"]:1061: in function <[string ".\Script/Main/MainScene.lua"]:1060>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'create'
+	[string ".\Script/Common/TipLayer.lua"]:338: in function <[string ".\Script/Common/TipLayer.lua"]:332>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'create'
+	[string ".\Script/Common/TipLayer.lua"]:338: in function <[string ".\Script/Common/TipLayer.lua"]:332>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'create'
+	[string ".\Script/Common/TipLayer.lua"]:338: in function <[string ".\Script/Common/TipLayer.lua"]:332>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'create'
+	[string ".\Script/Common/TipLayer.lua"]:338: in function <[string ".\Script/Common/TipLayer.lua"]:332>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'create'
+	[string ".\Script/Common/TipLayer.lua"]:338: in function <[string ".\Script/Common/TipLayer.lua"]:332>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'create'
+	[string ".\Script/Common/TipLayer.lua"]:338: in function <[string ".\Script/Common/TipLayer.lua"]:332>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'create'
+	[string ".\Script/Common/TipLayer.lua"]:338: in function <[string ".\Script/Common/TipLayer.lua"]:332>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'create'
+	[string ".\Script/Common/TipLayer.lua"]:338: in function <[string ".\Script/Common/TipLayer.lua"]:332>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function <[string ".\Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'create'
+	[string ".\Script/Common/TipLayer.lua"]:338: in function <[string ".\Script/Common/TipLayer.lua"]:332>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string ".\Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string ".\Script/Login/StartLoadingScene.lua"]:17: in function '__index'
+	[string ".\Script/Main/Dungeon/CompetitionUnderLayer.lua"]:174: in function 'AddImagePlayer'
+	[string ".\Script/Main/Dungeon/CompetitionUnderLayer.lua"]:210: in function 'ShowCopetitionPlayer'
+	[string ".\Script/Main/Dungeon/CompetitionUnderLayer.lua"]:389: in function 'CompetitionUnderInfo'
+	[string ".\Script/Main/Dungeon/CompetitionLayer.lua"]:104: in function 'ShowCompetitionUnder'
+	[string ".\Script/Main/Dungeon/CompetitionLayer.lua"]:126: in function 'InitUI'
+	[string ".\Script/Main/Dungeon/CompetitionLayer.lua"]:159: in function 'CreateCompetitonLayer'
+	[string ".\Script/Main/MainScene.lua"]:1400: in function 'm_funSuccessCallBack'
+	[string ".\Script/Network/packet/Packet_GetCompetition..."]:44: in function 'fun'
+	[string ".\Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string ".\Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string ".\Script/Login/StartLoadingScene.lua"]:48: in function <[string ".\Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string ".\Script/Login/StartLoadingScene.lua"]:107: in function <[string ".\Script/Login/StartLoadingScene.lua"]:106>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string "Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string "Script/Login/StartLoadingScene.lua"]:17: in function '__index'
+	[string "Script/Main/Item/ItemLotSelectLogic.lua"]:130: in function 'DealDelOKImg'
+	[string "Script/Main/Item/ItemListLayer.lua"]:416: in function <[string "Script/Main/Item/ItemListLayer.lua"]:398>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string "Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string "Script/Login/StartLoadingScene.lua"]:17: in function '__index'
+	[string "Script/Main/Dungeon/CompetitionUnderLayer.lua"]:174: in function 'AddImagePlayer'
+	[string "Script/Main/Dungeon/CompetitionUnderLayer.lua"]:210: in function 'ShowCopetitionPlayer'
+	[string "Script/Main/Dungeon/CompetitionUnderLayer.lua"]:389: in function 'CompetitionUnderInfo'
+	[string "Script/Main/Dungeon/CompetitionLayer.lua"]:104: in function 'ShowCompetitionUnder'
+	[string "Script/Main/Dungeon/CompetitionLayer.lua"]:126: in function 'InitUI'
+	[string "Script/Main/Dungeon/CompetitionLayer.lua"]:159: in function 'CreateCompetitonLayer'
+	[string "Script/Main/MainScene.lua"]:1400: in function 'm_funSuccessCallBack'
+	[string "Script/Network/packet/Packet_GetCompetitionDa..."]:44: in function 'fun'
+	[string "Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string "Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string "Script/Login/StartLoadingScene.lua"]:48: in function <[string "Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string "Script/Login/StartLoadingScene.lua"]:107: in function <[string "Script/Login/StartLoadingScene.lua"]:106>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string "Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string "Script/Login/StartLoadingScene.lua"]:17: in function '__index'
+	[string "Script/Main/Corps/CorpsScene.lua"]:1405: in function 'DeleteRedPoint'
+	[string "Script/Main/Corps/CorpsSpirit/CorpsSpiritlaye..."]:120: in function <[string "Script/Main/Corps/CorpsSpirit/CorpsSpiritlaye..."]:100>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string "Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string "Script/Login/StartLoadingScene.lua"]:17: in function <[string "Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'getChildByTag'
+	[string "Script/Main/Corps/CorpsScene.lua"]:1408: in function 'DeleteRedPoint'
+	[string "Script/Main/Corps/CorpsSpirit/CorpsSpiritlaye..."]:120: in function <[string "Script/Main/Corps/CorpsSpirit/CorpsSpiritlaye..."]:100>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string "Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string "Script/Login/StartLoadingScene.lua"]:17: in function <[string "Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'setText'
+	[string "Script/Main/Corps/CorpsSpirit/CorpsSpiritBase..."]:145: in function 'SetDelayTime'
+	[string "Script/Main/Corps/CorpsSpirit/CorpsSpiritBase..."]:164: in function <[string "Script/Main/Corps/CorpsSpirit/CorpsSpiritBase..."]:146>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string "Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string "Script/Login/StartLoadingScene.lua"]:17: in function <[string "Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'getChildByTag'
+	[string "Script/Main/Corps/CorpsScene.lua"]:1388: in function 'm_fullSuccessCallBack'
+	[string "Script/Network/packet/Packet_AniGetPerstige.lua"]:30: in function 'fun'
+	[string "Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string "Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string "Script/Login/StartLoadingScene.lua"]:48: in function <[string "Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string "Script/Login/StartLoadingScene.lua"]:107: in function <[string "Script/Login/StartLoadingScene.lua"]:106>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string "Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string "Script/Login/StartLoadingScene.lua"]:17: in function <[string "Script/Login/StartLoadingScene.lua"]:4>
+	[C]: in function 'getChildByTag'
+	[string "Script/Main/Corps/CorpsScene.lua"]:1345: in function 'm_funSuccessCallBack'
+	[string "Script/Network/packet/Packet_CorpsYetMercenar..."]:29: in function 'fun'
+	[string "Script/Network/packet/PacketManage.lua"]:147: in function 'Excute'
+	[string "Script/Network/packet/PacketManage.lua"]:81: in function 'luarecv_org'
+	[string "Script/Login/StartLoadingScene.lua"]:48: in function <[string "Script/Login/StartLoadingScene.lua"]:41>
+	[C]: in function 'UpNetWork'
+	[string "Script/Main/MainScene.lua"]:1082: in function <[string "Script/Main/MainScene.lua"]:1081>
+----------------------------------------
+----------------------------------------
+LUA ERROR: nil
+stack traceback:
+	[string "Script/Login/StartLoadingScene.lua"]:24: in function 'FileLog_traceback_Msg'
+	[string "Script/Login/StartLoadingScene.lua"]:17: in function '__index'
+	[string "Script/Main/Corps/CorpsGodTreeLayer.lua"]:333: in function <[string "Script/Main/Corps/CorpsGodTreeLayer.lua"]:332>
+----------------------------------------

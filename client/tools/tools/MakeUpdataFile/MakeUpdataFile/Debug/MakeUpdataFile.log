@@ -1,0 +1,50 @@
+﻿生成启动时间为 2014/10/11 18:18:56。
+     1>项目“D:\svn\trunk\client\tools\tools\MakeUpdataFile\MakeUpdataFile\MakeUpdataFile.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\svn\trunk\client\tools\tools\MakeUpdataFile\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\MakeUpdataFile.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\MakeUpdataFile.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MakeUpdataFile.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MakeUpdataFile.cpp MakeUpdataFileDlg.cpp MD5Checksum.cpp
+         MD5Checksum.cpp
+         MakeUpdataFileDlg.cpp
+     1>d:\svn\trunk\client\tools\tools\makeupdatafile\makeupdatafile\makeupdatafiledlg.cpp(129): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(283) : 参见“wcscpy”的声明
+     1>d:\svn\trunk\client\tools\tools\makeupdatafile\makeupdatafile\makeupdatafiledlg.cpp(130): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(276) : 参见“wcscat”的声明
+     1>d:\svn\trunk\client\tools\tools\makeupdatafile\makeupdatafile\makeupdatafiledlg.cpp(293): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(276) : 参见“wcscat”的声明
+         MakeUpdataFile.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MakeUpdataFile.res" MakeUpdataFile.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MakeUpdataFile.exe.embed.manifest.res" Debug\MakeUpdataFile_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\svn\trunk\client\tools\tools\MakeUpdataFile\Debug\MakeUpdataFile.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MakeUpdataFile.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\svn\trunk\client\tools\tools\MakeUpdataFile\Debug\MakeUpdataFile.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\svn\trunk\client\tools\tools\MakeUpdataFile\Debug\MakeUpdataFile.lib" /MACHINE:X86 Debug\MakeUpdataFile.res
+         Debug\MakeUpdataFile.exe.embed.manifest.res
+         Debug\MakeUpdataFile.obj
+         Debug\MakeUpdataFileDlg.obj
+         Debug\MD5Checksum.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MakeUpdataFile.exe.embed.manifest" /manifest Debug\MakeUpdataFile.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MakeUpdataFile.exe.embed.manifest.res" Debug\MakeUpdataFile_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\svn\trunk\client\tools\tools\MakeUpdataFile\Debug\MakeUpdataFile.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MakeUpdataFile.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\svn\trunk\client\tools\tools\MakeUpdataFile\Debug\MakeUpdataFile.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\svn\trunk\client\tools\tools\MakeUpdataFile\Debug\MakeUpdataFile.lib" /MACHINE:X86 Debug\MakeUpdataFile.res
+         Debug\MakeUpdataFile.exe.embed.manifest.res
+         Debug\MakeUpdataFile.obj
+         Debug\MakeUpdataFileDlg.obj
+         Debug\MD5Checksum.obj
+         Debug\stdafx.obj
+         MakeUpdataFile.vcxproj -> D:\svn\trunk\client\tools\tools\MakeUpdataFile\Debug\MakeUpdataFile.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MakeUpdataFile.unsuccessfulbuild”。
+         正在对“Debug\MakeUpdataFile.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\svn\trunk\client\tools\tools\MakeUpdataFile\MakeUpdataFile\MakeUpdataFile.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.16

@@ -1,0 +1,271 @@
+{
+"content_scale": 1.0,
+"armature_data": [
+{
+"strVersion": "1.5.0.0",
+"version": 1.5,
+"name": "denglu_front_tree01",
+"bone_data": [
+{
+"name": "denglu_front_tree02",
+"parent": "",
+"dI": 0,
+"x": 16.626983642578125,
+"y": -11.37428092956543,
+"z": 3,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "denglu_front_tree02.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+},
+{
+"name": "denglu_front_tree01",
+"parent": "",
+"dI": 0,
+"x": 104.72238159179688,
+"y": -49.421897888183594,
+"z": 2,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"arrow_x": 0.0,
+"arrow_y": 0.0,
+"effectbyskeleton": false,
+"display_data": [
+{
+"name": "denglu_front_tree01.png",
+"displayType": 0,
+"skin_data": [
+{
+"x": 0.0,
+"y": 0.0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0
+}
+]
+}
+]
+}
+]
+}
+],
+"animation_data": [
+{
+"name": "denglu_front_tree01",
+"mov_data": [
+{
+"name": "Animation1",
+"dr": 91,
+"lp": true,
+"to": 0,
+"drTW": 0,
+"twE": 0,
+"sc": 0.4,
+"mov_bone_data": [
+{
+"name": "denglu_front_tree02",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 1.8666666746139526,
+"y": 9.3333330154418945,
+"z": 0,
+"cX": 1.01866663,
+"cY": 1.0,
+"kX": -0.0814487,
+"kY": 0.0325794742,
+"fi": 39,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 2.0,
+"y": 10.0,
+"z": 0,
+"cX": 1.02,
+"cY": 1.0,
+"kX": -0.08726646,
+"kY": 0.03490658,
+"fi": 45,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.13333332538604736,
+"y": 0.66666698455810547,
+"z": 0,
+"cX": 1.00133336,
+"cY": 1.0,
+"kX": -0.00581776351,
+"kY": 0.002327107,
+"fi": 83,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 90,
+"twE": 0,
+"tweenFrame": true
+}
+]
+},
+{
+"name": "denglu_front_tree01",
+"dl": 0.0,
+"frame_data": [
+{
+"dI": 0,
+"x": 0.25000005960464478,
+"y": 0.70833325386047363,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.005090544,
+"kY": 0.00218166038,
+"fi": 0,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.0,
+"y": 0.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": 0.0,
+"kY": 0.0,
+"fi": 5,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 5.5999999046325684,
+"y": 15.866666793823242,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.114028178,
+"kY": 0.0488692224,
+"fi": 44,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 6.0,
+"y": 17.0,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.122173049,
+"kY": 0.05235988,
+"fi": 50,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.40000009536743164,
+"y": 1.1333332061767578,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.00814487,
+"kY": 0.00349065661,
+"fi": 88,
+"twE": 0,
+"tweenFrame": true
+},
+{
+"dI": 0,
+"x": 0.25000005960464478,
+"y": 0.70833325386047363,
+"z": 0,
+"cX": 1.0,
+"cY": 1.0,
+"kX": -0.005090544,
+"kY": 0.00218166038,
+"fi": 90,
+"twE": 0,
+"tweenFrame": true
+}
+]
+}
+]
+}
+]
+}
+],
+"texture_data": [
+{
+"name": "denglu_front_tree01",
+"width": 332.0,
+"height": 188.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+},
+{
+"name": "denglu_front_tree02",
+"width": 218.0,
+"height": 113.0,
+"pX": 0.5,
+"pY": 0.5,
+"plistFile": ""
+}
+],
+"config_file_path": [
+"denglu_front_tree010.plist"
+],
+"config_png_path": [
+"denglu_front_tree010.png"
+]
+}
